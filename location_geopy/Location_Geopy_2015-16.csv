@@ -1,0 +1,1538 @@
+Location,Class,Intelligent_Class
+ALL STATES,State,State
+ANDAMAN & NICOBAR ISLANDS,State,State
+ANDHRA PRADESH,State,State
+ARUNACHAL PRADESH,State,State
+ASSAM,State,State
+BIHAR,State,State
+CHANDIGARH,State,State
+CHHATTISGARH,State,State
+DADRA & NAGAR HAVELI AND DAMAN & DIU,State,State
+DELHI,State,State
+GOA,State,State
+GUJARAT,State,State
+HARYANA,State,State
+HIMACHAL PRADESH,State,State
+JAMMU & KASHMIR,State,State
+JHARKHAND,State,State
+KARNATAKA,State,State
+KERALA,State,State
+KHERWADI,State,Town
+LADAKH,State,State
+LAKSHADWEEP,State,State
+MADHYA PRADESH,State,State
+MAHARASHTRA,State,State
+MANIPUR,State,State
+MEGHALAYA,State,State
+MIZORAM,State,State
+MUMBAI),State,City
+NAGALAND,State,State
+NEPAL,State,Country
+ODISHA,State,State
+PUDUCHERRY,State,State
+PUNJAB,State,State
+RAJASTHAN,State,State
+SIKKIM,State,State
+TAMIL NADU,State,State
+TELANGANA,State,State
+TRIPURA,State,State
+UTTAR PRADESH,State,State
+UTTARAKHAND,State,State
+WEST BENGAL,State,State
+24 PARGANAS,Unclassified,District
+AAGAR,Unclassified,Town
+AALO,Unclassified,District
+AATHANOOR,Unclassified,Town
+ABDIMANDI,Unclassified,Village
+ABHAYPUR,Unclassified,City
+ABHOYPUR,Unclassified,Town
+ABU ROAD,Unclassified,Town
+ADILABAD,Unclassified,City
+ADIPUR,Unclassified,Town
+ADITYAPUR,Unclassified,Town
+ADJAAL,Unclassified,Town
+AGAR MALWA,Unclassified,District
+AGASWADI,Unclassified,Village
+AGRA,Unclassified,City
+AHMEDABAD,Unclassified,City
+AHMEDGARH,Unclassified,Town
+AHMEDNAGAR,Unclassified,District
+AIROLI,Unclassified,Town
+AIZAWL,Unclassified,City
+AJEETPUR,Unclassified,Village
+AJMER,Unclassified,City
+AJNI,Unclassified,Town
+AKOLA,Unclassified,District
+ALAPPUZHA,Unclassified,District
+ALIBAUG,Unclassified,Town
+ALIGARH,Unclassified,District
+ALINJIVAKKAM,Unclassified,Village
+ALIPUR,Unclassified,City
+ALIPURDUAR,Unclassified,City
+ALIRAJPUR,Unclassified,District
+ALLAHABAD,Unclassified,City
+ALLEPPEY,Unclassified,Town
+ALMORA,Unclassified,District
+ALOK,Unclassified,Town
+ALWAR,Unclassified,District
+AMARWARA,Unclassified,City
+AMBALA,Unclassified,City
+AMBATTUR,Unclassified,Town
+AMBEDKAR NAGAR,Unclassified,District
+AMBERNATH,Unclassified,Town
+AMDANDA,Unclassified,City
+AMEERPET,Unclassified,Town
+AMELIA,Unclassified,Town
+AMER,Unclassified,Town
+AMETHI,Unclassified,District
+AMINGAON,Unclassified,Town
+AMINGAON IN KAMRUP DIST.,Unclassified,District
+AMLAI,Unclassified,Town
+AMMASANDRA,Unclassified,Village
+AMRAVATI,Unclassified,District
+AMRELI,Unclassified,District
+AMRITSAR,Unclassified,City
+AMROHA,Unclassified,District
+AMTALA,Unclassified,City
+ANAGAPUTHUR,Unclassified,Town
+ANAIKATTI,Unclassified,Village
+ANAIKOIL,Unclassified,Village
+ANAND,Unclassified,City
+ANANDDHAM,Unclassified,Town
+ANANTHAPURAMU,Unclassified,Town
+ANDHERI,Unclassified,Town
+ANDHERI EAST MUMBAI,Unclassified,Town
+ANDUL,Unclassified,Town
+ANEGAON,Unclassified,Village
+ANEKAL,Unclassified,City
+ANGRA,Unclassified,Town
+ANGUL,Unclassified,District
+ANJAR,Unclassified,Town
+ANKALAS,Unclassified,Town
+ANKLESHWAR,Unclassified,Town
+ANNAMALAI,Unclassified,Town
+ANNOPSHAHR,Unclassified,Town
+ANTERVEDIPALEM EAST GODAVARI,Unclassified,Town
+ANUPPUR,Unclassified,District
+ARADHANADHAM,Unclassified,Town
+ARAKU,Unclassified,Town
+ARARIA,Unclassified,Town
+ARI DONGARI MINES,Unclassified,Town
+ARIYALUR,Unclassified,District
+ARNAVOYAL,Unclassified,Town
+ARVALLI,Unclassified,Town
+ARWAL,Unclassified,District
+ASANSOL,Unclassified,City
+ASHOK NAGAR,Unclassified,Town
+ASHRAM,Unclassified,Town
+ASHTA,Unclassified,City
+ASHTI,Unclassified,District
+ASRONDI,Unclassified,Town
+ATHOLA,Unclassified,Town
+ATMURDI,Unclassified,Village
+AURAIYA,Unclassified,District
+AURANGABAD,Unclassified,City
+AYA NAGAR,Unclassified,Town
+AZAD NAGAR,Unclassified,Town
+AZAMGARH,Unclassified,District
+B.CHARIALI,Unclassified,Town
+BADARPUR,Unclassified,Town
+BADDI,Unclassified,District
+BADHOI,Unclassified,Town
+BADLAPUR,Unclassified,Town
+BADNAGAR,Unclassified,Village
+BADWANI,Unclassified,Village
+BAGANPARA,Unclassified,District
+BAGHPAT,Unclassified,District
+BAGODAR,Unclassified,District
+BAGPAT,Unclassified,Village
+BAGUNPOTA,Unclassified,Town
+BAHADURGARH,Unclassified,City
+BAIKAMPADY,Unclassified,Village
+BAJPUR,Unclassified,City
+BAKSA,Unclassified,District
+BALAGHAT,Unclassified,District
+BALANGIR,Unclassified,District
+BALARAMPUR,Unclassified,District
+BALASORE,Unclassified,Town
+BALESWAR,Unclassified,Town
+BALIJAN,Unclassified,Village
+BALOD,Unclassified,District
+BALODA BAZAR,Unclassified,District
+BALRAMPUR,Unclassified,District
+BANARAS,Unclassified,City
+BANASKANTHA,Unclassified,District
+BANASTHALI,Unclassified,Town
+BANASWARA,Unclassified,Town
+BANDIPORA,Unclassified,Town
+BANDIPUR,Unclassified,City
+BANDRA,Unclassified,Town
+BANDRA (EAST,Unclassified,Town
+BANJARA HILLS,Unclassified,Town
+BANKA,Unclassified,District
+BANKURA,Unclassified,District
+BANMORE,Unclassified,Town
+BANSWARA,Unclassified,District
+BANTUPALLI,Unclassified,Village
+BARA,Unclassified,Town
+BARABANKI,Unclassified,District
+BARAMATI,Unclassified,District
+BARAMULLA,Unclassified,City
+BARASAT,Unclassified,City
+BARBANKI,Unclassified,Town
+BARBIL,Unclassified,Town
+BARDEZ,Unclassified,District
+BARDHAMAN,Unclassified,City
+BARDOLI,Unclassified,Town
+BAREILLY,Unclassified,District
+BARGARH,Unclassified,District
+BARMANA,Unclassified,Village
+BARMER,Unclassified,District
+BARNALA,Unclassified,District
+BARODA,Unclassified,City
+BARPETA,Unclassified,District
+BARRACKPORE,Unclassified,City
+BARWANI,Unclassified,District
+BASAHI,Unclassified,Town
+BASSI,Unclassified,City
+BASTAR,Unclassified,District
+BASTI,Unclassified,District
+BATHINDA,Unclassified,District
+BAVLA,Unclassified,Town
+BAWAL,Unclassified,District
+BAZPUR,Unclassified,Town
+BEAWAR,Unclassified,Town
+BEAWAR RAS,Unclassified,Town
+BECHARAJI,Unclassified,District
+BEED,Unclassified,District
+BEGUR,Unclassified,City
+BEGUSARAI,Unclassified,District
+BELAGAVI,Unclassified,District
+BELLARY,Unclassified,City
+BELUR,Unclassified,Town
+BELUR MATH,Unclassified,Town
+BELWA,Unclassified,City
+BEMETARA,Unclassified,District
+BENGALURU,Unclassified,City
+BETUL,Unclassified,District
+BHADOHI,Unclassified,District
+BHADRAK,Unclassified,District
+BHADRESWAR,Unclassified,Town
+BHAGALPUR,Unclassified,District
+BHAGWANPUR,Unclassified,District
+BHANDARA,Unclassified,District
+BHANDUP,Unclassified,Town
+BHARAT NAGAR,Unclassified,Town
+BHARATPUR,Unclassified,District
+BHARUCH,Unclassified,City
+BHATAPARA,Unclassified,Town
+BHATIA,Unclassified,City
+BHAVNAGAR,Unclassified,City
+BHAWANI MANDI,Unclassified,Town
+BHAYANDAR,Unclassified,Town
+BHESTAN,Unclassified,Town
+BHIKAJI CAMA PLACE,Unclassified,Town
+BHILAI,Unclassified,City
+BHILWARA,Unclassified,District
+BHIMASAR,Unclassified,Village
+BHIMTAL,Unclassified,Town
+BHIND,Unclassified,District
+BHIWADI,Unclassified,City
+BHIWANDI,Unclassified,City
+BHIWANI,Unclassified,City
+BHOJPUR,Unclassified,District
+BHONGIR,Unclassified,Town
+BHOOTHPUR,Unclassified,Village
+BHOPAL,Unclassified,City
+BHUBANESWAR,Unclassified,City
+BHUJ,Unclassified,City
+BIDADI,Unclassified,Town
+BIDAR,Unclassified,District
+BIJAPUR,Unclassified,Town
+BIJNOR,Unclassified,District
+BIKANER,Unclassified,City
+BILASPUR,Unclassified,District
+BILSARAYAN,Unclassified,Town
+BINA,Unclassified,Town
+BINDRA NAVAGARH,Unclassified,Town
+BINWADA,Unclassified,Town
+BIRBHUM,Unclassified,District
+BIRGAON,Unclassified,City
+BISHNUPUR,Unclassified,Town
+BOISAR,Unclassified,Town
+BOKARO,Unclassified,District
+BOLANGIR,Unclassified,District
+BOLPUR,Unclassified,City
+BONGAIGAON,Unclassified,City
+BONGAIGOAN,Unclassified,Town
+BONHOOGHLY,Unclassified,Town
+BORIA,Unclassified,City
+BRAMHANWADI,Unclassified,Village
+BUDASAN,Unclassified,Town
+BUDAUN,Unclassified,City
+BUDGE BUDGE,Unclassified,City
+BUDHNI,Unclassified,Town
+BULANDSHAHR,Unclassified,District
+BULDHANA,Unclassified,District
+BUNDU,Unclassified,District
+BURDWAN,Unclassified,City
+BURMU,Unclassified,District
+BUTIBORI,Unclassified,Village
+BUXAR,Unclassified,District
+CACHAR,Unclassified,District
+CALICUT,Unclassified,Town
+CHADEL,Unclassified,Town
+CHAIBASA,Unclassified,District
+CHAKAN,Unclassified,Town
+CHAMARAJANAGAR,Unclassified,District
+CHAMBA,Unclassified,District
+CHAMOLI,Unclassified,District
+CHAMPA,Unclassified,Town
+CHAMPAI,Unclassified,Town
+CHAMPAWAT,Unclassified,District
+CHAMPDANI,Unclassified,Town
+CHANDAULI,Unclassified,District
+CHANDEL,Unclassified,City
+CHANDERIA,Unclassified,Town
+CHANDEY,Unclassified,Town
+CHANDIMANDIR,Unclassified,Town
+CHANDRAPUR,Unclassified,District
+CHANGLANG,Unclassified,District
+CHATRA,Unclassified,District
+CHEMBUR,Unclassified,Town
+CHENNAI,Unclassified,City
+CHERTHALA,Unclassified,Town
+CHHAPRA,Unclassified,District
+CHHARODI,Unclassified,Town
+CHHATARPUR,Unclassified,District
+CHHINDWARA,Unclassified,District
+CHHOTA UDAIPUR,Unclassified,District
+CHICHPALLI,Unclassified,Village
+CHIDAMBARAM,Unclassified,Town
+CHIKKABALLAPUR,Unclassified,Town
+CHIKKAMAGALURU,Unclassified,District
+CHIKLA,Unclassified,City
+CHIKMAGALUR,Unclassified,City
+CHINCHOLI,Unclassified,Town
+CHINCHWAD,Unclassified,Town
+CHINTAMANI,Unclassified,Town
+CHIRAKOOT,Unclassified,Town
+CHIRALA,Unclassified,Town
+CHIRANG,Unclassified,District
+CHIRAWA,Unclassified,Town
+CHITOOR,Unclassified,Town
+CHITRADURGA,Unclassified,District
+CHITRAKOOT,Unclassified,District
+CHITTOOR,Unclassified,District
+CHITTORGARH,Unclassified,District
+CHOPANKI,Unclassified,Town
+CHORYASHI,Unclassified,Town
+CHUBWA,Unclassified,Town
+CHUNAR,Unclassified,Town
+CHURACHANDPUR,Unclassified,Town
+CHURU,Unclassified,District
+COCHIN,Unclassified,City
+COIMBATORE,Unclassified,City
+CONNAUGHT PLACE,Unclassified,Town
+COORG,Unclassified,District
+COWL BAZAAR,Unclassified,Town
+CUDAPPAH,Unclassified,Town
+CUDDALORE,Unclassified,District
+CUMBUM,Unclassified,Town
+CUTTACK,Unclassified,City
+DABURJEE,Unclassified,Town
+DADAR,Unclassified,Town
+DADHEDA,Unclassified,Town
+DADRA,Unclassified,District
+DADRI,Unclassified,Town
+DAFAIPARA,Unclassified,Town
+DAHANU,Unclassified,Town
+DAHEJ,Unclassified,Town
+DAHOD,Unclassified,District
+DAKSHINA KANNADA,Unclassified,District
+DALHOUSIE,Unclassified,District
+DALTANGANJ,Unclassified,Town
+DAMAN,Unclassified,City
+DAMOH,Unclassified,District
+DANG,Unclassified,District
+DANGS,Unclassified,District
+DANKAUR,Unclassified,Village
+DANTEWADA,Unclassified,District
+DARBHANGA,Unclassified,District
+DARJEELING,Unclassified,City
+DARLAGHAT,Unclassified,District
+DARRANG,Unclassified,District
+DAUSA,Unclassified,District
+DAVANAGERE,Unclassified,District
+DEDIAPADA,Unclassified,Town
+DEHRADUN,Unclassified,City
+DEHRAND,Unclassified,Town
+DELANGA,Unclassified,District
+DELHI /NCR,Unclassified,Town
+DEMNI,Unclassified,Town
+DENKANIKOTTAI,Unclassified,District
+DEOGARH,Unclassified,City
+DEORIA,Unclassified,District
+DERABASSI,Unclassified,Town
+DESAI FALIYA,Unclassified,Town
+DEULI,Unclassified,Town
+DEVANAHALLI,Unclassified,Town
+DEVAPUR DIST.,Unclassified,District
+DEVBHUMI DWARKA,Unclassified,Town
+DEVGAD BARIA,Unclassified,Town
+DEWAS,Unclassified,District
+DHAMANPET,Unclassified,Town
+DHAMARI,Unclassified,City
+DHAMDHERE,Unclassified,Village
+DHAMRA,Unclassified,Village
+DHAMTARI,Unclassified,District
+DHANBAD,Unclassified,City
+DHANKHET,Unclassified,Town
+DHAR,Unclassified,District
+DHARAMPUR,Unclassified,Town
+DHARAMPURI,Unclassified,City
+DHARAVI,Unclassified,Town
+DHARMAPURI,Unclassified,District
+DHARSIWA,Unclassified,Town
+DHARUHERA,Unclassified,Town
+DHARWAD,Unclassified,District
+DHASIWAN,Unclassified,Town
+DHAULA KUAN,Unclassified,Town
+DHELA,Unclassified,Town
+DHEMAJI,Unclassified,District
+DHENKANAL,Unclassified,District
+DHRANGADHRA,Unclassified,Town
+DHUBRI,Unclassified,District
+DHULE,Unclassified,District
+DIAMOND HARBOUR ROAD,Unclassified,Town
+DIBANG VALLEY,Unclassified,District
+DIBRUGARH,Unclassified,City
+DIMAPUR,Unclassified,District
+DINDIGUL,Unclassified,District
+DINDORI,Unclassified,District
+DIPKA,Unclassified,Town
+DOBBASPET,Unclassified,Town
+DODDABALLAPUR,Unclassified,Town
+DOLVI,Unclassified,Village
+DOMBIVALI,Unclassified,City
+DOMBIVLI,Unclassified,District
+DONGARBORE,Unclassified,Town
+DONGARGAON,Unclassified,City
+DOONDLODH,Unclassified,Town
+DORBA,Unclassified,Town
+DRONAGIRI NODE,Unclassified,Town
+DUDHWADA,Unclassified,Town
+DULKI,Unclassified,Village
+DUMKA,Unclassified,Town
+DUNDIGAL,Unclassified,Village
+DUNGARPUR,Unclassified,Town
+DUNSANDLE,Unclassified,Town
+DURG,Unclassified,District
+DURGAPUR,Unclassified,City
+DWARKA,Unclassified,Town
+EAST,Unclassified,Town
+EAST DELHI,Unclassified,City
+EAST GODAVARI,Unclassified,District
+EAST MIDNAPORE,Unclassified,Town
+EAST SIANG,Unclassified,District
+EAST SIKKIM,Unclassified,Town
+EAST SINGHBHUM,Unclassified,District
+EAST SINGHBUM,Unclassified,Town
+EKANGAR SARAI,Unclassified,Town
+EKLARI,Unclassified,City
+ENNORE,Unclassified,Town
+ERANHIPALAM,Unclassified,Village
+ERNAKULAM,Unclassified,District
+ERODE,Unclassified,District
+ETAH,Unclassified,District
+ETAWAH,Unclassified,District
+FAIZABAD,Unclassified,City
+FAKRABAD,Unclassified,Village
+FARAKKA,Unclassified,District
+FARIDABAD,Unclassified,City
+FARRUKHABAD,Unclassified,District
+FATEHGARH SAHIB,Unclassified,District
+FATEHPUR,Unclassified,District
+FEROZEPUR,Unclassified,Village
+G.B.NAGAR,Unclassified,Town
+GACHIBOWLI,Unclassified,Town
+GADAG,Unclassified,District
+GADCHIROLI,Unclassified,District
+GADEGAON,Unclassified,City
+GADHSHISA,Unclassified,Town
+GADKARI KHAN,Unclassified,Town
+GADKHOL,Unclassified,Town
+GAILPUR,Unclassified,City
+GAJAPATI,Unclassified,District
+GAJRAULA,Unclassified,Town
+GAJWEL,Unclassified,Town
+GANDHIDHAM,Unclassified,City
+GANDHIGRAM,Unclassified,Village
+GANDHINAGAR,Unclassified,City
+GANGAKHED,Unclassified,District
+GANGANAGAR,Unclassified,City
+GANGARAMPUR,Unclassified,Town
+GANGTOK,Unclassified,City
+GANJAM,Unclassified,District
+GANPAT VIDYANAGAR,Unclassified,Town
+GARDEN REACH,Unclassified,Town
+GARHWA,Unclassified,District
+GARIABAND,Unclassified,District
+GAUTAM PURI,Unclassified,Town
+GAUTAMBUDDHA NAGAR,Unclassified,Town
+GAUTAMBUDHHA NAGAR,Unclassified,Town
+GAYA,Unclassified,City
+GHAZIABAD,Unclassified,District
+GHAZIPUR,Unclassified,District
+GHORAKHAL,Unclassified,Village
+GIDDARBAHA,Unclassified,Town
+GIDE,Unclassified,Town
+GIDHALI,Unclassified,Town
+GIR SOMNATH,Unclassified,District
+GIRIDIH,Unclassified,District
+GIRNAAR JI,Unclassified,Town
+GODDA,Unclassified,District
+GODHRA,Unclassified,City
+GOLMURI,Unclassified,District
+GONDA,Unclassified,District
+GONDIA,Unclassified,City
+GOPALGANJ,Unclassified,District
+GOPALPUR,Unclassified,District
+GORAKHPUR,Unclassified,District
+GOVANDI,Unclassified,Town
+GRAM,Unclassified,Town
+GREATER KAILASH - I,Unclassified,Town
+GREATER NOIDA,Unclassified,City
+GUDALUR VALLEY,Unclassified,Village
+GUDUR,Unclassified,Town
+GUDUVANCHERRY,Unclassified,Town
+GULBARGA,Unclassified,City
+GULMOHAR PARK,Unclassified,Town
+GUMLA,Unclassified,District
+GUMMADIPUNDI,Unclassified,Town
+GUNA,Unclassified,District
+GUNTUR,Unclassified,City
+GURDASPUR,Unclassified,District
+GURUGRAM,Unclassified,City
+GUWAHATI,Unclassified,City
+GWALIOR,Unclassified,City
+HABRA,Unclassified,City
+HAILAKANDI,Unclassified,Town
+HALDA,Unclassified,Village
+HALDIA,Unclassified,City
+HALIYAL,Unclassified,Town
+HALOL,Unclassified,Village
+HAMIRPUR,Unclassified,District
+HANUMAN JUNCTION,Unclassified,Town
+HAPUR,Unclassified,District
+HARDA,Unclassified,District
+HARDOI,Unclassified,District
+HARIA,Unclassified,City
+HARIDWAR,Unclassified,District
+HARIPAL,Unclassified,District
+HASANPUR,Unclassified,Town
+HASSAN,Unclassified,District
+HATA,Unclassified,Town
+HATHRAS,Unclassified,District
+HAVERI,Unclassified,District
+HAZARIBAG,Unclassified,City
+HAZIRA,Unclassified,Village
+HEBBAGODI,Unclassified,City
+HENKANAL,Unclassified,Town
+HIMMATNAGAR,Unclassified,Village
+HINGANA,Unclassified,City
+HINGOLI,Unclassified,District
+HINJEWADI,Unclassified,Town
+HISAR,Unclassified,District
+HOBLI,Unclassified,City
+HOOGHLY,Unclassified,District
+HOSAD,Unclassified,Village
+HOSHANGABAD,Unclassified,City
+HOSHIARPUR,Unclassified,District
+HOSPET,Unclassified,City
+HOSUR,Unclassified,Town
+HOWRAH,Unclassified,City
+HUBLI,Unclassified,City
+HUGLI,Unclassified,District
+HUSKUR,Unclassified,Town
+HYDERABAD,Unclassified,City
+IDUKKI,Unclassified,District
+IGATPURI,Unclassified,Town
+IGT,Unclassified,Town
+IIT ROORKEE,Unclassified,Town
+IMPHAL,Unclassified,City
+INDORE,Unclassified,City
+ISHWAR NAGAR,Unclassified,Town
+ITANAGAR,Unclassified,City
+JABALPUR,Unclassified,City
+JACKKE,Unclassified,Town
+JAGANNATHAPURAM,Unclassified,Village
+JAGATHSINGHPUR,Unclassified,Town
+JAGATHY,Unclassified,Town
+JAGATSINGHPUR,Unclassified,Town
+JAGDALPUR,Unclassified,City
+JAGDISHPUR,Unclassified,District
+JAHANABAD,Unclassified,City
+JAINPUR,Unclassified,City
+JAIPUR,Unclassified,City
+JAIRAMPUR,Unclassified,City
+JAISALMER,Unclassified,City
+JAJPUR,Unclassified,District
+JALANDHAR,Unclassified,District
+JALAUN,Unclassified,District
+JALGAON,Unclassified,District
+JALNA,Unclassified,District
+JALORE,Unclassified,District
+JALPAIGURI,Unclassified,District
+JAMBHUL,Unclassified,Village
+JAMBUSAR,Unclassified,Town
+JAMMU,Unclassified,City
+JAMNAGAR,Unclassified,City
+JAMO,Unclassified,Town
+JAMSHEDPUR,Unclassified,City
+JAMUGAM,Unclassified,Town
+JANJGIR,Unclassified,Town
+JANJGIR-CHAMPA,Unclassified,District
+JANKI KUND,Unclassified,Town
+JASDAN,Unclassified,Village
+JASHPUR,Unclassified,District
+JASIDIH,Unclassified,Town
+JASWANTGARH,Unclassified,Village
+JAUNPUR,Unclassified,District
+JAVADHU HILLS,Unclassified,Town
+JAWAHAR NAGAR,Unclassified,Town
+JAWHAR,Unclassified,Town
+JAYKAYPURAM,Unclassified,Village
+JEHANABAD,Unclassified,District
+JERALDABARU,Unclassified,Town
+JEYPORE,Unclassified,Town
+JHABUA,Unclassified,District
+JHAJJAR,Unclassified,District
+JHALAWAR,Unclassified,District
+JHANDEWALAN,Unclassified,Town
+JHANSI,Unclassified,District
+JHARLI,Unclassified,Village
+JHARSUGUDA,Unclassified,District
+JHUNJHUNU,Unclassified,District
+JHUNJHUNU DIST.,Unclassified,District
+JIND,Unclassified,City
+JIRIBAM,Unclassified,Town
+JOBNER,Unclassified,Town
+JODA,Unclassified,District
+JODHPUR,Unclassified,City
+JOJOBERA,Unclassified,Village
+JORHAT,Unclassified,City
+JUHU VILEPARLE,Unclassified,Town
+JUNAGADH,Unclassified,City
+KABIR NAGAR,Unclassified,Town
+KABIRDHAM,Unclassified,District
+KACHCHH,Unclassified,District
+KACHHE,Unclassified,Town
+KACHIGAM,Unclassified,Town
+KADAPA,Unclassified,City
+KADAPAKKAM,Unclassified,Town
+KADI,Unclassified,Town
+KADIPANI,Unclassified,Town
+KAGAL,Unclassified,Town
+KAIMUR,Unclassified,District
+KAITHAL,Unclassified,City
+KAIZALEY,Unclassified,Town
+KAKINADA,Unclassified,City
+KALA AMB,Unclassified,Town
+KALAHANDI,Unclassified,District
+KALAMASSERY,Unclassified,Town
+KALKAJI,Unclassified,Town
+KALMESHWAR,Unclassified,Town
+KALOL,Unclassified,City
+KALYAN,Unclassified,District
+KALYANI,Unclassified,City
+KAMARHATI,Unclassified,Town
+KAMRUP,Unclassified,District
+KAMRUP METROPOLITAN,Unclassified,District
+KAMRUP RURAL,Unclassified,Town
+KANAKAPURA,Unclassified,Town
+KANCHAL FALIYA,Unclassified,Town
+KANCHEEPURAM,Unclassified,City
+KANDA,Unclassified,District
+KANDHAMAL,Unclassified,District
+KANGRA,Unclassified,District
+KANKE,Unclassified,District
+KANKER,Unclassified,Town
+KANKROLI,Unclassified,Town
+KANNAGI NAGAR,Unclassified,Town
+KANNUR,Unclassified,City
+KANOD,Unclassified,City
+KANPUR,Unclassified,City
+KANPUR DEHAT,Unclassified,District
+KANSBAHAL,Unclassified,Town
+KANYAKUMARI,Unclassified,Town
+KAPURTHALA,Unclassified,District
+KARAIKAL,Unclassified,Town
+KARAMSAD,Unclassified,Village
+KARAULI,Unclassified,District
+KARCHAM,Unclassified,Town
+KARELI,Unclassified,Town
+KARGIL,Unclassified,Town
+KARIMNAGAR,Unclassified,City
+KARJAN,Unclassified,Town
+KARJAT,Unclassified,Town
+KARKARDOOMA,Unclassified,Town
+KARNAL,Unclassified,District
+KAROL BAGH,Unclassified,Town
+KARSANG,Unclassified,Village
+KARUR,Unclassified,District
+KARWAR,Unclassified,Town
+KASARGOD,Unclassified,Town
+KASGANJ,Unclassified,District
+KASHIPUR,Unclassified,Town
+KASHMIR,Unclassified,Village
+KASRAWAD,Unclassified,City
+KATHA,Unclassified,City
+KATHUA,Unclassified,City
+KATIHAR,Unclassified,District
+KATNI,Unclassified,District
+KATOL,Unclassified,City
+KATPADI,Unclassified,District
+KAWAI,Unclassified,City
+KAWARDHA,Unclassified,Town
+KELCHA MAL,Unclassified,Town
+KENDRAPUR,Unclassified,Town
+KENDUJHAR,Unclassified,District
+KENGERI,Unclassified,Town
+KEOJHAR,Unclassified,Town
+KEONJHAR,Unclassified,District
+KHADI MACHINE,Unclassified,Town
+KHAGARIA,Unclassified,District
+KHAIRATABAD,Unclassified,Town
+KHAJURAHO,Unclassified,Village
+KHAMMAM,Unclassified,City
+KHANDKE,Unclassified,Town
+KHANDWA,Unclassified,District
+KHANNA,Unclassified,City
+KHARGHAR,Unclassified,Town
+KHARGONE,Unclassified,District
+KHARIGRAM,Unclassified,Village
+KHATIMA,Unclassified,Town
+KHATUWAS,Unclassified,Town
+KHEDA,Unclassified,District
+KHERWA,Unclassified,City
+KHIJRABAD,Unclassified,Town
+KHODIYAR,Unclassified,Village
+KHOLA,Unclassified,Village
+KHOPOLI,Unclassified,Town
+KHORDA,Unclassified,City
+KHORDHA,Unclassified,District
+KHUNTI,Unclassified,District
+KHURDA,Unclassified,City
+KHUSHKHERA,Unclassified,Village
+KHWABGAH,Unclassified,Town
+KINNAUR,Unclassified,District
+KIRTI NAGAR,Unclassified,Town
+KISHANGANJ,Unclassified,District
+KISHTWAR,Unclassified,Town
+KOCHI,Unclassified,City
+KODAKARA,Unclassified,Village
+KODERMA,Unclassified,District
+KODINAR,Unclassified,Town
+KOHIMA,Unclassified,City
+KOHLAPUR,Unclassified,Town
+KOKRAJHAR,Unclassified,District
+KOLAR,Unclassified,District
+KOLASIB,Unclassified,District
+KOLHAPUR,Unclassified,City
+KOLKATA,Unclassified,City
+KOLKHE,Unclassified,Town
+KOLLAM,Unclassified,City
+KOLLAPUR,Unclassified,Town
+KONA,Unclassified,Town
+KONDAPALLI,Unclassified,Town
+KONDHWA,Unclassified,Town
+KONKAN,Unclassified,Town
+KOPPAL,Unclassified,District
+KORAMANGALA,Unclassified,Town
+KORAPUT,Unclassified,District
+KORBA,Unclassified,District
+KORIYA,Unclassified,District
+KORPANA,Unclassified,Town
+KOSI KALAN,Unclassified,Village
+KOSMI,Unclassified,City
+KOTA,Unclassified,City
+KOTESHWAR,Unclassified,Village
+KOTHLAPUR,Unclassified,Village
+KOTPUTLI,Unclassified,Town
+KOTTAYAM,Unclassified,District
+KOVALAM,Unclassified,Town
+KOVILAMBAKKAM,Unclassified,Town
+KOYILANDY,Unclassified,Town
+KOZHIKODE,Unclassified,City
+KR PURAM,Unclassified,Town
+KRISHNA,Unclassified,Town
+KRISHNAGIRI,Unclassified,District
+KUILISUTA,Unclassified,Town
+KULLU,Unclassified,Town
+KUMAON,Unclassified,Village
+KUMBAKONAM,Unclassified,City
+KUMREK,Unclassified,Town
+KUMTA TEHSIL OF UTTARA KANNADA,Unclassified,Town
+KUNDAL,Unclassified,Town
+KUNDLI,Unclassified,City
+KURKUMBH,Unclassified,Town
+KURNOOL,Unclassified,City
+KURUKSHETRA,Unclassified,City
+KURUNG KUMEY,Unclassified,District
+KUSHINAGAR,Unclassified,Town
+KUTCH,Unclassified,District
+KUTHAMBAKKAM,Unclassified,Village
+KUTHREL,Unclassified,Town
+KYMORE,Unclassified,Town
+LADNU,Unclassified,Town
+LAHAUL,Unclassified,District
+LAKARPUR,Unclassified,Town
+LAKHIMPUR,Unclassified,District
+LAKHIMPUR KHERI,Unclassified,District
+LAKHISARAI,Unclassified,District
+LAKHMAPUR,Unclassified,Village
+LALITPUR,Unclassified,District
+LALRU,Unclassified,Town
+LAMBHUA,Unclassified,District
+LATEHAR,Unclassified,District
+LATUR,Unclassified,District
+LAXMIPURA,Unclassified,City
+LEH,Unclassified,City
+LEPAKSHI,Unclassified,Town
+LILUAH,Unclassified,Town
+LOHARA,Unclassified,City
+LOHARDAGA,Unclassified,District
+LOHIT,Unclassified,District
+LONAVALA,Unclassified,Town
+LONGDING,Unclassified,District
+LONI,Unclassified,City
+LOTE,Unclassified,Village
+LOTE MAHAD,Unclassified,Town
+LOWER DIBANG VALLEY,Unclassified,District
+LUCKNOW,Unclassified,City
+LUDHIANA,Unclassified,City
+MACHERLA,Unclassified,Town
+MACHILIPATNAM,Unclassified,City
+MADHEPURA,Unclassified,District
+MADHOPUR,Unclassified,City
+MADHUBANI,Unclassified,District
+MADHUPUR,Unclassified,District
+MADURAI,Unclassified,City
+MADURANTHAKAM,Unclassified,Town
+MAGADI,Unclassified,Town
+MAHAD,Unclassified,Town
+MAHASAMUND,Unclassified,District
+MAHAVIR INTERNATIONAL DELHI,Unclassified,Town
+MAHBUBNAGAR,Unclassified,City
+MAHENDRAGARH,Unclassified,District
+MAHESANA,Unclassified,City
+MAHIPALPUR,Unclassified,Village
+MAINPURI,Unclassified,District
+MAJERHAAT,Unclassified,Town
+MAJHAULI,Unclassified,Town
+MAJULI,Unclassified,District
+MALANPUR,Unclassified,City
+MALAPPURAM,Unclassified,District
+MALDA,Unclassified,City
+MALIHABAD,Unclassified,District
+MALLEPALLY,Unclassified,Town
+MALWA,Unclassified,Village
+MAMIT,Unclassified,District
+MANALI,Unclassified,Town
+MANAMADURAI,Unclassified,District
+MANCHESWAR,Unclassified,Town
+MANDHAR,Unclassified,Village
+MANDI,Unclassified,District
+MANDIDEEP,Unclassified,Town
+MANDLA,Unclassified,District
+MANDONI,Unclassified,Town
+MANDSAUR,Unclassified,District
+MANDVI,Unclassified,Town
+MANDYA,Unclassified,District
+MANESAR,Unclassified,City
+MANGALURU,Unclassified,City
+MANGAON,Unclassified,Town
+MANIKKCHAMB,Unclassified,Town
+MANKEPADA,Unclassified,Village
+MANSA,Unclassified,District
+MARATHWADA,Unclassified,Town
+MARAWAR MUNDWA,Unclassified,Town
+MASWAD,Unclassified,Town
+MATA NO MADH,Unclassified,City
+MATHURA,Unclassified,City
+MAU,Unclassified,District
+MAVAL,Unclassified,Town
+MAYURBHANJ,Unclassified,District
+MEDAK,Unclassified,District
+MEDAVAKKAM,Unclassified,Town
+MEERUT,Unclassified,District
+MEHSANA,Unclassified,Town
+MELATTUR,Unclassified,Town
+MEWAT,Unclassified,District
+MGR NAGAR,Unclassified,Village
+MHOW,Unclassified,Town
+MIDNAPORE,Unclassified,City
+MIRAJ,Unclassified,District
+MIRZAPUR,Unclassified,District
+MIZAPUR,Unclassified,Town
+MOGA,Unclassified,District
+MOHADI,Unclassified,Town
+MOHALA,Unclassified,City
+MOHALI,Unclassified,Town
+MOHAMMADWADI,Unclassified,Town
+MOHITEWADI,Unclassified,Village
+MOHOJDEVDE,Unclassified,Town
+MOHOL,Unclassified,District
+MOKHADA,Unclassified,Village
+MOLARBAND,Unclassified,Town
+MORADABAD,Unclassified,District
+MORBI,Unclassified,District
+MORENA,Unclassified,District
+MORIGAON,Unclassified,Town
+MORMUGAO,Unclassified,Town
+MUDIS,Unclassified,Village
+MUJUNGAVU,Unclassified,Town
+MUKANE,Unclassified,Town
+MUKTARAMBABU,Unclassified,Town
+MUKTSAR,Unclassified,City
+MUKTYALA,Unclassified,Village
+MUKUNDGARH,Unclassified,Town
+MULSHI,Unclassified,Village
+MUMBAI,Unclassified,City
+MUNDEGAON,Unclassified,Village
+MUNDRA,Unclassified,Town
+MUNGELI,Unclassified,Town
+MUNGER,Unclassified,District
+MUNINDA,Unclassified,Town
+MUNNAR,Unclassified,Town
+MUNSAR,Unclassified,Town
+MURADABAD,Unclassified,City
+MURBAD,Unclassified,Town
+MURSHIDABAD,Unclassified,Town
+MUZAFFAR NAGAR,Unclassified,Town
+MUZAFFARNAGAR,Unclassified,District
+MUZAFFARPUR,Unclassified,District
+MYSURU,Unclassified,City
+NABRANGPUR,Unclassified,Town
+NADIA,Unclassified,District
+NADIAD,Unclassified,City
+NADIKUDI,Unclassified,Village
+NAGABABA NAGAR,Unclassified,Town
+NAGAON,Unclassified,District
+NAGAPATTINAM,Unclassified,District
+NAGAUR,Unclassified,District
+NAGPUR,Unclassified,City
+NAGPUR DIST.,Unclassified,District
+NAIGAON,Unclassified,Town
+NAINI,Unclassified,Town
+NAINITAL,Unclassified,District
+NAKA,Unclassified,City
+NALAGARH,Unclassified,District
+NALANCHIRA,Unclassified,Town
+NALANDA,Unclassified,Town
+NALBARI,Unclassified,District
+NALGONDA,Unclassified,City
+NAMAKKAL,Unclassified,District
+NAMKUM,Unclassified,District
+NANAKAPAYA,Unclassified,Town
+NANDAGOKUL,Unclassified,Village
+NANDAYAL,Unclassified,Town
+NANDED,Unclassified,District
+NANDESARI,Unclassified,Town
+NANDIGAMA,Unclassified,Town
+NANDIGAON,Unclassified,Village
+NANDURBAR,Unclassified,District
+NANGAL,Unclassified,Town
+NANGALIA,Unclassified,Town
+NANITAL,Unclassified,Town
+NANJANGUD,Unclassified,Town
+NARAINA,Unclassified,Town
+NARAINPUR,Unclassified,City
+NARAJ MARTHAPUR,Unclassified,Town
+NARASARAOPET,Unclassified,City
+NARASINGAPURAM,Unclassified,Village
+NARAYANPUR,Unclassified,District
+NARMADA,Unclassified,Town
+NARODA,Unclassified,Town
+NARSINGHPUR,Unclassified,District
+NARSOBAWADI,Unclassified,Town
+NASHIK,Unclassified,City
+NASIK,Unclassified,Town
+NATHDWARA,Unclassified,Town
+NAUBATPUR,Unclassified,District
+NAUPUR,Unclassified,Town
+NAVAATAOLA,Unclassified,Town
+NAVATIRUPATI,Unclassified,Town
+NAVATOLA,Unclassified,Town
+NAVI MUMBAI,Unclassified,City
+NAVI NAGRI,Unclassified,Town
+NAVRANGPURA,Unclassified,Village
+NAVSARI,Unclassified,City
+NAWADA,Unclassified,District
+NAWALGARH,Unclassified,Town
+NAYA RAIPUR,Unclassified,Town
+NAYAGARH,Unclassified,District
+NEEMRANA,Unclassified,Town
+NEEMUCH,Unclassified,District
+NELAMANGALA,Unclassified,City
+NELLIKUPPAM,Unclassified,Village
+NELLORE,Unclassified,City
+NENAVA,Unclassified,Town
+NERAL,Unclassified,Town
+NETRANG,Unclassified,Town
+NEW DELHI,Unclassified,City
+NEW MULUND,Unclassified,Town
+NEW PANVEL,Unclassified,Town
+NIGRIE,Unclassified,Village
+NILGIRIS,Unclassified,District
+NIRA,Unclassified,Town
+NIZAMABAD,Unclassified,City
+NOIDA,Unclassified,City
+NONADANGA,Unclassified,Town
+NOOMBAL,Unclassified,Town
+NOORPUR,Unclassified,Town
+NORTH,Unclassified,Town
+NORTH 24 PARGANAS,Unclassified,District
+NORTH GOA,Unclassified,District
+NORTH GUWAHATI,Unclassified,District
+NORTH KARNATAKA,Unclassified,Town
+NUH,Unclassified,District
+OKHA,Unclassified,Town
+OKHLA,Unclassified,Town
+OKKIYAM,Unclassified,Town
+ONGOLE,Unclassified,City
+OSARA,Unclassified,City
+OSMANABAD,Unclassified,Town
+OYAN,Unclassified,Town
+PAALI,Unclassified,Town
+PACHPADRA,Unclassified,Town
+PADAVEDU,Unclassified,Village
+PADGHE,Unclassified,Town
+PAHADI,Unclassified,City
+PAHARPUR,Unclassified,District
+PALAKKAD,Unclassified,District
+PALANPUR,Unclassified,City
+PALGHAR,Unclassified,District
+PALI,Unclassified,District
+PALLI,Unclassified,City
+PALLIKARANAI,Unclassified,Town
+PALWAL,Unclassified,District
+PAMBA,Unclassified,Town
+PANAJI,Unclassified,City
+PANANDHRO,Unclassified,Village
+PANCHKULA,Unclassified,Town
+PANCHMAHAL,Unclassified,District
+PANDHRO,Unclassified,Town
+PANGODE,Unclassified,Town
+PANIPAT,Unclassified,City
+PANJARAPOLE,Unclassified,Town
+PANNA,Unclassified,District
+PANOLI,Unclassified,Town
+PANTNAGAR,Unclassified,Town
+PANVEL,Unclassified,City
+PANWARIA,Unclassified,Town
+PAONTA SAHIB,Unclassified,Town
+PAPUM PARE,Unclassified,District
+PARADEEP,Unclassified,Town
+PARBHANI,Unclassified,District
+PARDI,Unclassified,Town
+PARLI,Unclassified,Town
+PARNERA,Unclassified,Town
+PARREKODO,Unclassified,Village
+PASCHIM CHAMPARAN,Unclassified,Town
+PASCHIM MEDINIPUR,Unclassified,District
+PATALGANGA,Unclassified,Town
+PATAN,Unclassified,District
+PATELAD,Unclassified,Town
+PATHAGAR,Unclassified,Town
+PATHANAMTHITTA,Unclassified,District
+PATHANAPURAM,Unclassified,Town
+PATIALA,Unclassified,District
+PATNA,Unclassified,City
+PATRATU,Unclassified,Town
+PATRAU,Unclassified,Town
+PATTUKKOTTAI,Unclassified,Town
+PAURI GARHWAL,Unclassified,District
+PAVAGADA,Unclassified,Town
+PERAMBALUR,Unclassified,District
+PERAMBRA,Unclassified,Town
+PERUMBAKKAM,Unclassified,Town
+PERUNGUDI,Unclassified,Town
+PETH,Unclassified,City
+PETTAMITTA,Unclassified,Town
+PEYAD,Unclassified,Town
+PHILLOR,Unclassified,Town
+PHOOLPUR,Unclassified,Village
+PILANI,Unclassified,Town
+PILIBHIT,Unclassified,District
+PILKHUWA,Unclassified,Town
+PILLAYARKUPPAM,Unclassified,Village
+PILUDARA,Unclassified,Town
+PITHAMPUR,Unclassified,City
+PITHORAGARH,Unclassified,Town
+PODANUR,Unclassified,Town
+PONDA,Unclassified,District
+PONNAMPET,Unclassified,Town
+PONNERI,Unclassified,District
+POOJAPURA,Unclassified,Town
+POOLAM,Unclassified,Town
+POONCH,Unclassified,Town
+PORBANDAR,Unclassified,District
+PORT BLAIR,Unclassified,City
+POTHEPALLI,Unclassified,Town
+PRAJWALA,Unclassified,Town
+PRAKASAM,Unclassified,District
+PRATAPGARH,Unclassified,District
+PUDUKKOTTAI,Unclassified,District
+PULICAT,Unclassified,Town
+PULWAMA,Unclassified,District
+PUNCHA,Unclassified,Village
+PUNE,Unclassified,City
+PURBA MEDINIPUR,Unclassified,District
+PURBI CHAMPARAN,Unclassified,Town
+PURI,Unclassified,City
+PURNEA,Unclassified,City
+PURULIA,Unclassified,District
+PUSEWADA,Unclassified,Town
+RABRIYAWAS,Unclassified,Town
+RADHAPURAM,Unclassified,District
+RAEBARELI,Unclassified,District
+RAGIHALLI,Unclassified,City
+RAICHUR,Unclassified,District
+RAIGAD,Unclassified,District
+RAIGARH,Unclassified,District
+RAIGHAD,Unclassified,Town
+RAIPUR,Unclassified,City
+RAISEN,Unclassified,District
+RAJALDESAR,Unclassified,Town
+RAJAM,Unclassified,Town
+RAJAMUNDRY,Unclassified,Town
+RAJAPET MANDAL,Unclassified,Village
+RAJARHAT,Unclassified,Town
+RAJGARH,Unclassified,District
+RAJGIR,Unclassified,Town
+RAJKOT,Unclassified,City
+RAJNANDGAON,Unclassified,District
+RAJPARDI,Unclassified,Village
+RAJPURA,Unclassified,City
+RAJSAMAND,Unclassified,District
+RAJULA,Unclassified,Town
+RAM NAGAR,Unclassified,Town
+RAMANAGARA,Unclassified,District
+RAMANATHAPURAM,Unclassified,District
+RAMBAN,Unclassified,District
+RAMGARH,Unclassified,District
+RAMKOLA,Unclassified,City
+RAMPUR,Unclassified,District
+RAMPUR JATTAN,Unclassified,Town
+RAMPURA,Unclassified,City
+RAMTEK,Unclassified,Town
+RANCHI,Unclassified,City
+RANGA REDDY,Unclassified,District
+RANGIT,Unclassified,Town
+RANGPO,Unclassified,Town
+RANIKHET,Unclassified,District
+RANIPET,Unclassified,District
+RANJANGAON,Unclassified,Village
+RANTHAMBHORE,Unclassified,Town
+RAPCHA,Unclassified,Town
+RAS,Unclassified,Village
+RATLAM,Unclassified,District
+RATNAGIRI,Unclassified,District
+RAU,Unclassified,Town
+RAVVA,Unclassified,Town
+RAWATBHATA,Unclassified,Town
+RAYAGADA,Unclassified,District
+RC PURAM,Unclassified,Town
+REASI,Unclassified,District
+REDIVARIPALLI,Unclassified,Town
+REHLA,Unclassified,City
+RENGALI,Unclassified,Town
+RENUKOOT,Unclassified,Town
+REPALLE,Unclassified,Town
+REWA,Unclassified,District
+REWARI,Unclassified,City
+REWASA,Unclassified,Village
+RI BHOI,Unclassified,District
+RISHIKESH,Unclassified,Town
+RISHRA,Unclassified,Town
+ROHA,Unclassified,Town
+ROHELA,Unclassified,Village
+ROHINI,Unclassified,Town
+ROHTAK,Unclassified,City
+ROING,Unclassified,Town
+ROOPNAGAR,Unclassified,Town
+ROORKEE,Unclassified,City
+ROPAR,Unclassified,Town
+ROURKELA,Unclassified,City
+RUDRAPRAYAG,Unclassified,District
+RUDRAPUR,Unclassified,City
+RUPNAGAR,Unclassified,District
+S,Unclassified,Town
+SABARIMALA,Unclassified,Village
+SABARKANTHA,Unclassified,District
+SADIYA,Unclassified,District
+SADRI,Unclassified,Town
+SAGAR,Unclassified,District
+SAGAR TALUQ,Unclassified,Town
+SAHARANPUR,Unclassified,District
+SAHARSA,Unclassified,District
+SAHASTRADHARA,Unclassified,Village
+SAHIBABAD,Unclassified,Town
+SAHIBGANJ,Unclassified,District
+SAHUPURAM,Unclassified,Village
+SAKET,Unclassified,Town
+SALAIDHABHA,Unclassified,Town
+SALAPUR,Unclassified,City
+SALASAR,Unclassified,Village
+SALEM,Unclassified,District
+SAMAGHOGHA,Unclassified,Town
+SAMALKHA,Unclassified,District
+SAMALKOT,Unclassified,Town
+SAMANA,Unclassified,City
+SAMASTIPUR,Unclassified,District
+SAMBA,Unclassified,District
+SAMBALPUR,Unclassified,District
+SAMBHAL,Unclassified,District
+SAMBHALPUR,Unclassified,Town
+SAMINATHAPURAM,Unclassified,Village
+SAMITI,Unclassified,Town
+SAMLAYA,Unclassified,Town
+SANAND,Unclassified,Town
+SANCHORE,Unclassified,Town
+SANGALI,Unclassified,Village
+SANGHERA,Unclassified,Village
+SANGHIPURAM,Unclassified,Village
+SANGLI,Unclassified,District
+SANGRUR,Unclassified,District
+SANJALI,Unclassified,Town
+SANKARNAGAR,Unclassified,Village
+SANKILI,Unclassified,Village
+SANKRAIL,Unclassified,District
+SANYASIKUPPAM,Unclassified,Town
+SAPHALE,Unclassified,Town
+SARAIKELA-KHARSAWAN,Unclassified,District
+SARAN,Unclassified,District
+SARGUJA,Unclassified,Town
+SARIEKELA,Unclassified,Town
+SARIGAM,Unclassified,Village
+SARJAPURA ROAD,Unclassified,Town
+SARSAV,Unclassified,Village
+SASTHAMANGALAM,Unclassified,Town
+SATARA,Unclassified,District
+SATE,Unclassified,Village
+SATHARIA,Unclassified,Town
+SATHYAMANGALAM,Unclassified,District
+SATNA,Unclassified,District
+SATNOOR,Unclassified,City
+SAURASHTRA,Unclassified,Town
+SAVARKUNDLA,Unclassified,Town
+SAWAI MADHOPUR,Unclassified,District
+SAWANGA,Unclassified,City
+SEALDAH,Unclassified,Town
+SECUNDERABAD,Unclassified,City
+SEEMANDHARA,Unclassified,Town
+SEHORE,Unclassified,District
+SEIJOSA,Unclassified,District
+SENAPATI,Unclassified,District
+SEONI,Unclassified,District
+SERAIKELA-KHARSAWAN,Unclassified,District
+SEWAPURI,Unclassified,Town
+SHADHARA,Unclassified,Town
+SHADOL,Unclassified,Town
+SHAHABAD,Unclassified,Town
+SHAHAPUR,Unclassified,City
+SHAHDARA,Unclassified,City
+SHAHDOL,Unclassified,Town
+SHAHEED BHAGAT SINGH NAGAR,Unclassified,District
+SHAHJAHANPUR,Unclassified,District
+SHAJAPUR,Unclassified,District
+SHALIMAR,Unclassified,Town
+SHAMEERPET,Unclassified,Town
+SHAMLI,Unclassified,District
+SHANKAR DEUL,Unclassified,Town
+SHANTIGIRI,Unclassified,Town
+SHEOPUR,Unclassified,District
+SHERPUR,Unclassified,City
+SHILLONG,Unclassified,City
+SHIMLA,Unclassified,City
+SHIMOGA,Unclassified,District
+SHINDAWANE,Unclassified,Town
+SHIRPUR,Unclassified,City
+SHIRUR,Unclassified,District
+SHIVAMOGGA,Unclassified,City
+SHIVPURI,Unclassified,District
+SHOLAPUR,Unclassified,City
+SHOLINGANALLUR,Unclassified,District
+SHOLINGUR,Unclassified,Town
+SHOLTU,Unclassified,Town
+SHOVARAM BASAK,Unclassified,Town
+SHRAVANABELAGOLA,Unclassified,Town
+SHRAVASTI,Unclassified,Village
+SHRIRAMPUR,Unclassified,City
+SHRUJAN,Unclassified,Town
+SHUKUL BAZAR,Unclassified,Town
+SHYAMPUR,Unclassified,City
+SIBSAGAR,Unclassified,City
+SIDHI,Unclassified,District
+SIDHPUR,Unclassified,Village
+SIKANDRABAD,Unclassified,City
+SIKAR,Unclassified,District
+SILIGURI,Unclassified,City
+SILTARA,Unclassified,City
+SILVASAGAR,Unclassified,Town
+SILVASAILAM,Unclassified,Town
+SILVASSA,Unclassified,City
+SIMDEGA,Unclassified,District
+SINDHUDURG,Unclassified,District
+SINDONI,Unclassified,Town
+SINGAMPATTI,Unclassified,Village
+SINGHBHUM,Unclassified,District
+SINGHBHUM EAST,Unclassified,Town
+SINGHPUR,Unclassified,Town
+SINGRAULI,Unclassified,District
+SINNAR,Unclassified,Town
+SION MUMBAI,Unclassified,Town
+SIRMAUR,Unclassified,District
+SIROHI,Unclassified,District
+SIROLI,Unclassified,Town
+SIRSA,Unclassified,District
+SIRSI,Unclassified,Town
+SITAMARHI,Unclassified,Town
+SITAPUR,Unclassified,District
+SITARGANJ,Unclassified,Town
+SIVAGANGA,Unclassified,Town
+SIVASAGAR,Unclassified,City
+SOJAT,Unclassified,Town
+SOLA,Unclassified,Town
+SOLAN,Unclassified,City
+SOLAPUR,Unclassified,District
+SOMNATH,Unclassified,Town
+SOMNATHPUR,Unclassified,Village
+SONAGIRI,Unclassified,Village
+SONARPUR,Unclassified,District
+SONBHADRA,Unclassified,District
+SONEPAT,Unclassified,Town
+SONEPUR,Unclassified,District
+SONIPAT,Unclassified,City
+SONITPUR,Unclassified,District
+SOUTH 24 PARGANAS,Unclassified,District
+SOUTH GOA,Unclassified,District
+SOUTH SIKKIM,Unclassified,Town
+SOUTH WEST DELHI,Unclassified,City
+SPITI,Unclassified,District
+SRI GANGANAGAR,Unclassified,District
+SRIKAKULAM,Unclassified,City
+SRIKALAHASTI,Unclassified,Town
+SRIMADHOPUR,Unclassified,Town
+SRINAGAR,Unclassified,City
+SRINIWASPURI,Unclassified,Town
+SRIPERUMBUDUR,Unclassified,Town
+SRIRAMPORE,Unclassified,City
+SUCHINDRUM,Unclassified,Town
+SUDERGARH,Unclassified,Town
+SULTANPUR,Unclassified,District
+SUNDARBANS,Unclassified,Town
+SUNDARGARH,Unclassified,District
+SUPA,Unclassified,Village
+SURAT,Unclassified,City
+SURATGARH,Unclassified,Town
+SURENDRANAGAR,Unclassified,District
+SURGUJA,Unclassified,District
+SUTARWADI,Unclassified,Village
+TABARIJO,Unclassified,Town
+TADA,Unclassified,Town
+TADKESHWAR,Unclassified,Town
+TADO,Unclassified,Village
+TAIMOOR NAGAR,Unclassified,Town
+TAJPURA,Unclassified,City
+TALASARI,Unclassified,Town
+TALEGAON,Unclassified,Town
+TALODARA,Unclassified,Town
+TALOJA,Unclassified,Town
+TALUKA,Unclassified,Village
+TALUKA VELHE,Unclassified,Town
+TAMBARAM,Unclassified,Town
+TAMENGLONG,Unclassified,Town
+TANAKPUR,Unclassified,Town
+TAPI,Unclassified,Town
+TARAPUR,Unclassified,Town
+TARATALA,Unclassified,Town
+TARN TARAN,Unclassified,District
+TAURU,Unclassified,Town
+TAWANG,Unclassified,City
+TEESTA,Unclassified,Town
+TEHRI,Unclassified,District
+TEHRI GARHWAL,Unclassified,District
+TEKADHORA,Unclassified,Town
+TELANGANA (ADILABAD,Unclassified,Town
+TENALI,Unclassified,City
+TENSA,Unclassified,Town
+TEZPUR,Unclassified,District
+THALAIYUTHU,Unclassified,Town
+THANA,Unclassified,City
+THANE,Unclassified,District
+THANJAVUR,Unclassified,District
+THEMLONG,Unclassified,Town
+THENI,Unclassified,District
+THIRUBUVANAI,Unclassified,Village
+THIRUKKURUNGUDI,Unclassified,Town
+THIRUMEERMALAI,Unclassified,Town
+THIRUVANANTHAPURAM,Unclassified,City
+THIRUVARUR,Unclassified,District
+THIRUVOTTIYUR,Unclassified,Town
+THOOTHUKUDI,Unclassified,District
+THORAIPAKKAM,Unclassified,Town
+THRISSUR,Unclassified,City
+TIKAMGARH,Unclassified,District
+TILIJA,Unclassified,Town
+TIMMAPUR,Unclassified,Village
+TINSUKIA,Unclassified,Town
+TIPTUR,Unclassified,Town
+TIRODA,Unclassified,Town
+TIRUCHIRAPPALLI,Unclassified,City
+TIRULDIH,Unclassified,Town
+TIRUNELVELI,Unclassified,District
+TIRUPATI,Unclassified,City
+TIRUPPUR,Unclassified,District
+TIRUVALLUR,Unclassified,Town
+TIRUVANNAMALAI,Unclassified,District
+TIRUVARUR,Unclassified,Town
+TIRUVOTTIYUR,Unclassified,Town
+TITAGARH,Unclassified,Town
+TOANSA,Unclassified,Town
+TONK,Unclassified,District
+TOOPRAN,Unclassified,Town
+TORANAGALLU,Unclassified,Village
+TRICHI,Unclassified,Town
+TRICHUR,Unclassified,City
+TRICHY,Unclassified,City
+TRIMBAK,Unclassified,Town
+TRIMBAKESHWAR,Unclassified,Town
+TRIPRAYAR,Unclassified,Town
+TROMBAY,Unclassified,Town
+TUENSANG,Unclassified,District
+TUGHLAKABAD,Unclassified,Town
+TUKUMR,Unclassified,Town
+TUMAKURU,Unclassified,District
+TUMKUNTA,Unclassified,Village
+TUMKUR,Unclassified,City
+TUTICORIN,Unclassified,City
+UDAIPUR,Unclassified,City
+UDAIPURA,Unclassified,City
+UDALGURI,Unclassified,District
+UDHAGAMANDALAM,Unclassified,Town
+UDHAM SINGH NAGAR,Unclassified,District
+UDHAMPUR,Unclassified,City
+UDUMALPET,Unclassified,Town
+UDUPI,Unclassified,District
+UJJAIN,Unclassified,City
+UKRAULI,Unclassified,City
+UKWA,Unclassified,Village
+UMARSAR,Unclassified,Village
+UMBERGAON,Unclassified,Town
+UMRETH,Unclassified,Town
+UNA,Unclassified,District
+UNAKOTI,Unclassified,District
+UNNAO,Unclassified,District
+UPPER MAMRING,Unclassified,Town
+UPPERSIANG,Unclassified,Town
+URAPAKKAM,Unclassified,Town
+URAWADE,Unclassified,Village
+URNI,Unclassified,Village
+USGAON,Unclassified,City
+UTTAR KANNADA,Unclassified,Town
+UTTARA KANNADA DIST.,Unclassified,District
+UTTARAHALLI,Unclassified,Town
+UTTARAKHAND (DEHRADUN,Unclassified,Town
+UTTARANCHAL,Unclassified,State
+UTTARKASHI,Unclassified,District
+UTTARPARA,Unclassified,Town
+VADALI,Unclassified,Town
+VADATHORASALUR,Unclassified,Town
+VADODARA,Unclassified,City
+VADVALI GAON,Unclassified,Village
+VAISHALI,Unclassified,District
+VALAPAD,Unclassified,Village
+VALLA,Unclassified,Village
+VALSAD,Unclassified,District
+VANGAON,Unclassified,Town
+VANI,Unclassified,Village
+VAPI,Unclassified,Town
+VARANASI,Unclassified,City
+VARDHA,Unclassified,City
+VASAI,Unclassified,Town
+VASANT VIHAR,Unclassified,Town
+VASHI,Unclassified,Town
+VASHI GAON,Unclassified,Town
+VASIND,Unclassified,Town
+VASUDEVANALLUR,Unclassified,Village
+VASUNDHARA,Unclassified,Town
+VATVA,Unclassified,Town
+VAZHAKULAM,Unclassified,Village
+VAZHOOR,Unclassified,Village
+VEERAPURAM,Unclassified,Village
+VELACHERY,Unclassified,Town
+VELLIVOYALCHAVADI,Unclassified,Town
+VELLORE,Unclassified,District
+VENKATAGIRI,Unclassified,Town
+VERAVAL,Unclassified,City
+VIDARBHA,Unclassified,Town
+VIDISHA,Unclassified,District
+VIDYA NAGAR,Unclassified,Town
+VIJAYANAGAR,Unclassified,Town
+VIJAYANAGARAM,Unclassified,City
+VIJAYAPURA,Unclassified,District
+VIJAYAWADA,Unclassified,City
+VIJAYNAGAR,Unclassified,Town
+VIJAYWADA,Unclassified,Town
+VIKAS PURI,Unclassified,Town
+VIKHROLI,Unclassified,Town
+VIKRAMGAD,Unclassified,Village
+VILAPPILSALA,Unclassified,Village
+VILE PARLE,Unclassified,Town
+VILLAGE TIZIT MON,Unclassified,Village
+VILUPPURAM,Unclassified,District
+VINUKONDA,Unclassified,Town
+VIP NAGAR,Unclassified,Village
+VIRAR,Unclassified,District
+VIRUDHUNAGAR,Unclassified,District
+VISAKHAPATNAM,Unclassified,City
+VISHNU NAGAR,Unclassified,Village
+VISHNUPRAYAG,Unclassified,Village
+VIZIANAGARAM,Unclassified,City
+VRINDAVAN,Unclassified,Town
+VUYYURU,Unclassified,Town
+VYARA,Unclassified,Town
+VYPIN,Unclassified,Town
+WADA,Unclassified,Town
+WADGAONPEER,Unclassified,Village
+WALUJ,Unclassified,Town
+WARANGAL,Unclassified,City
+WARDHA,Unclassified,District
+WARORA,Unclassified,Town
+WARTHI,Unclassified,Town
+WARUDE,Unclassified,Town
+WASHIM,Unclassified,District
+WAYANAD,Unclassified,District
+WEST BOKARO,Unclassified,Town
+WEST DELHI,Unclassified,City
+WEST GODAVARI,Unclassified,District
+WEST GODAVERI,Unclassified,Town
+WEST KHASI HILLS,Unclassified,District
+WEST MEDINIPUR,Unclassified,Town
+WEST SIANG,Unclassified,District
+WEST SINGHBHUM,Unclassified,District
+WHITEFIELD,Unclassified,Town
+WORLI,Unclassified,Town
+YADGIRI,Unclassified,Town
+YALAHANKA,Unclassified,Village
+YAMUNA NAGAR,Unclassified,Town
+YANAM,Unclassified,Town
+YAVATMAL,Unclassified,District
+YERAWADA,Unclassified,Town
+YEVATMAL,Unclassified,Town
+ZAHEERABAD,Unclassified,Town
+ZIRAKPUR,Unclassified,Town
+ZUARINAGAR,Unclassified,Town

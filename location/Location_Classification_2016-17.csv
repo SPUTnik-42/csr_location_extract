@@ -1,0 +1,1630 @@
+Location,Class
+ALL STATES,State
+ANDAMAN & NICOBAR ISLANDS,State
+ANDHRA PRADESH,State
+ARUNACHAL PRADESH,State
+ASSAM,State
+BIHAR,State
+CHANDIGARH,State
+CHHATTISGARH,State
+DADRA & NAGAR HAVELI AND DAMAN & DIU,State
+DELHI,State
+GOA,State
+GUJARAT,State
+HARYANA,State
+HIMACHAL PRADESH,State
+JAMMU & KASHMIR,State
+JHARKHAND,State
+KARNATAKA,State
+KERALA,State
+LADAKH,State
+LAKSHADWEEP,State
+MADHYA PRADESH,State
+MAHARASHTRA,State
+MANIPUR,State
+MEGHALAYA,State
+MIZORAM,State
+NAGALAND,State
+ODISHA,State
+PUDUCHERRY,State
+PUNJAB,State
+RAJASTHAN,State
+SIKKIM,State
+TAMIL NADU,State
+TELANGANA,State
+TRIPURA,State
+UTTAR PRADESH,State
+UTTARAKHAND,State
+WEST BENGAL,State
+(2 DIST.S,Unclassified
+24 PARGANAS,Unclassified
+ABDIMANDI,Unclassified
+ABDULLAPUR,Unclassified
+ABHOYPUR,Unclassified
+ABU ROAD,Unclassified
+ADILABAD,Unclassified
+ADIPUR,Unclassified
+ADITYAPUR,Unclassified
+AGAR MALWA,Unclassified
+AGARTALA,Unclassified
+AGRA,Unclassified
+AHMEDABAD,Unclassified
+AHMEDGARH,Unclassified
+AHMEDNAGAR,Unclassified
+AIROLI,Unclassified
+AIZAWL,Unclassified
+AJAMGARH,Unclassified
+AJEETPUR,Unclassified
+AJMER,Unclassified
+AJNI,Unclassified
+AKBARPUR,Unclassified
+AKOLA,Unclassified
+ALAPPUZHA,Unclassified
+ALIBAUG,Unclassified
+ALIGARH,Unclassified
+ALIPUR,Unclassified
+ALIPURDUAR,Unclassified
+ALIRAJPUR,Unclassified
+ALLAHABAD,Unclassified
+ALLEPPEY,Unclassified
+ALMORA,Unclassified
+ALOK,Unclassified
+ALWA,Unclassified
+ALWAR,Unclassified
+AMATALA,Unclassified
+AMBAKKAM,Unclassified
+AMBALA,Unclassified
+AMBERNATH,Unclassified
+AMBHETA,Unclassified
+AMEERPET,Unclassified
+AMELIA,Unclassified
+AMER,Unclassified
+AMETHI,Unclassified
+AMINGAON,Unclassified
+AMLAI,Unclassified
+AMMASANDRA,Unclassified
+AMRAVATI,Unclassified
+AMRELI,Unclassified
+AMRITSAR,Unclassified
+AMROHA,Unclassified
+ANAIKATTI,Unclassified
+ANAND,Unclassified
+ANANDPUR,Unclassified
+ANANGPUR,Unclassified
+ANANTHAPURAMU,Unclassified
+ANANTNAG,Unclassified
+ANDHERI,Unclassified
+ANDHRA PRADESH (8 DIST.S,Unclassified
+ANDHRA PRADESH (9 DIST.S,Unclassified
+ANDIPATTI,Unclassified
+ANDUL,Unclassified
+ANEKAL,Unclassified
+ANGAMALY,Unclassified
+ANGUL,Unclassified
+ANJAR,Unclassified
+ANKLESHWAR,Unclassified
+ANNAMALAI,Unclassified
+ANNARAM,Unclassified
+ANTERVEDIPALEM,Unclassified
+ARAKU,Unclassified
+ARAPUKOTTAI,Unclassified
+ARARIA,Unclassified
+ARIYALUR,Unclassified
+ARNAVOYAL,Unclassified
+AROOKUTTY,Unclassified
+ARUNACHAL PRADESH (2 DIST.S,Unclassified
+ARUNTHAVAPURAM,Unclassified
+ARVALLI,Unclassified
+ARWAL,Unclassified
+ASANSOL,Unclassified
+ASAOTI,Unclassified
+ASHRAM,Unclassified
+ASHTA,Unclassified
+ASHTAMUDI,Unclassified
+ASSAM (11 DIST.S,Unclassified
+ATHIPET,Unclassified
+ATMURDI,Unclassified
+ATTAPADI,Unclassified
+ATTINGAL,Unclassified
+AURAIYA,Unclassified
+AURANGABAD,Unclassified
+AURANJPUR,Unclassified
+AVADI,Unclassified
+AYA NAGAR,Unclassified
+AYODHYA,Unclassified
+AZAMGARH,Unclassified
+AZIZ NAGAR,Unclassified
+BACHUPALLY,Unclassified
+BADARPUR,Unclassified
+BADDI,Unclassified
+BADGAM,Unclassified
+BADHOI,Unclassified
+BADLAPUR,Unclassified
+BADLI,Unclassified
+BAGALKOTE,Unclassified
+BAGEPALLI,Unclassified
+BAGHEY,Unclassified
+BAGPAT,Unclassified
+BAHADOLI,Unclassified
+BAHADURGARH,Unclassified
+BAHRAICH,Unclassified
+BALAGHAT,Unclassified
+BALANGIR,Unclassified
+BALARAMPUR,Unclassified
+BALASORE,Unclassified
+BALESWAR,Unclassified
+BALIA,Unclassified
+BALOD,Unclassified
+BALODA,Unclassified
+BALODA BAZAR,Unclassified
+BALOTRA,Unclassified
+BALRAMPUR,Unclassified
+BANASKANTHA,Unclassified
+BANASTHALI,Unclassified
+BANDHWARI,Unclassified
+BANDIPORA,Unclassified
+BANDIPUR,Unclassified
+BANKURA,Unclassified
+BANMORE,Unclassified
+BANSWARA,Unclassified
+BANTUPALLI,Unclassified
+BARABANKI,Unclassified
+BARAGARH,Unclassified
+BARAMATI,Unclassified
+BARAMULLA,Unclassified
+BARAN,Unclassified
+BARASAT,Unclassified
+BARBANKI,Unclassified
+BARBIL,Unclassified
+BARDEZ,Unclassified
+BARDHAMAN,Unclassified
+BAREILLY,Unclassified
+BARGARH,Unclassified
+BARIPADA,Unclassified
+BARMANA,Unclassified
+BARMER,Unclassified
+BARNALA,Unclassified
+BARODA,Unclassified
+BAROTIWALA,Unclassified
+BARPETA,Unclassified
+BARRACKPORE,Unclassified
+BARWANI,Unclassified
+BASTAR,Unclassified
+BASTI,Unclassified
+BATHINDA,Unclassified
+BAWAL,Unclassified
+BAWANA,Unclassified
+BAZARGAON,Unclassified
+BAZPUR,Unclassified
+BEAWAR,Unclassified
+BECHARAJI,Unclassified
+BEED,Unclassified
+BEGU SARAI,Unclassified
+BEGUSARAI,Unclassified
+BEHROR,Unclassified
+BELAGAVADI,Unclassified
+BELAGAVI,Unclassified
+BELLARY,Unclassified
+BELLEM,Unclassified
+BEMETARA,Unclassified
+BENARAS,Unclassified
+BENGAL,Unclassified
+BENGALURU,Unclassified
+BENGALURU URBAN,Unclassified
+BERCHA,Unclassified
+BERWANI,Unclassified
+BETKUCHI,Unclassified
+BETUL,Unclassified
+BHADARVA,Unclassified
+BHADOHI,Unclassified
+BHADRADRI KOTHAGUDEM,Unclassified
+BHADRAK,Unclassified
+BHADRAWATI,Unclassified
+BHADRESAR,Unclassified
+BHADRESWAR,Unclassified
+BHADURPURA,Unclassified
+BHANDARA,Unclassified
+BHANDGAON,Unclassified
+BHANDUP,Unclassified
+BHARATPUR,Unclassified
+BHARUCH,Unclassified
+BHATAPARA,Unclassified
+BHATIA,Unclassified
+BHATINDA,Unclassified
+BHAVNAGAR,Unclassified
+BHAWANI MANDI,Unclassified
+BHERAI,Unclassified
+BHESTAN,Unclassified
+BHIKAJI CAMA PLACE,Unclassified
+BHILAI,Unclassified
+BHILWARA,Unclassified
+BHIMASAR,Unclassified
+BHIMTAL,Unclassified
+BHIND,Unclassified
+BHIWADI,Unclassified
+BHIWANDI,Unclassified
+BHIWANI,Unclassified
+BHOGAPURAM,Unclassified
+BHOJPUR,Unclassified
+BHONGIR,Unclassified
+BHOOTHPUR,Unclassified
+BHOPAL,Unclassified
+BHUBANESWAR,Unclassified
+BHUJ,Unclassified
+BHUNDI,Unclassified
+BIDADI,Unclassified
+BIDAR,Unclassified
+BIHAR (15 DIST.S,Unclassified
+BIJAPUR,Unclassified
+BIJNOR,Unclassified
+BIKANER,Unclassified
+BILASPUR,Unclassified
+BINA,Unclassified
+BINOLA,Unclassified
+BINSAR,Unclassified
+BIRBHUM,Unclassified
+BISHNUPUR,Unclassified
+BODLA,Unclassified
+BOISAR,Unclassified
+BOKARO,Unclassified
+BOLANGIR,Unclassified
+BOLPUR,Unclassified
+BONGAIGOAN,Unclassified
+BONHOOGHLY,Unclassified
+BORIVALI,Unclassified
+BOTAD,Unclassified
+BOUDH,Unclassified
+BRAHMAPUR,Unclassified
+BUDGE BUDGE,Unclassified
+BUDHNI,Unclassified
+BUGRA,Unclassified
+BULANDSHAHR,Unclassified
+BULDHANA,Unclassified
+BUNDI,Unclassified
+BUNDU,Unclassified
+BURDWAN,Unclassified
+BURHANPUR,Unclassified
+BUXAR,Unclassified
+BYCHAPURA,Unclassified
+CACHAR,Unclassified
+CADALORE,Unclassified
+CALICUT,Unclassified
+CHAKAN,Unclassified
+CHAKRADHARPUR,Unclassified
+CHALAKUDY,Unclassified
+CHAMARAJANAGAR,Unclassified
+CHAMBA,Unclassified
+CHAMOLI,Unclassified
+CHAMPA,Unclassified
+CHAMPARAN,Unclassified
+CHAMPAWAT,Unclassified
+CHAMPDANI,Unclassified
+CHAMPUA,Unclassified
+CHANDARPUR,Unclassified
+CHANDAULI,Unclassified
+CHANDEL,Unclassified
+CHANDERIA,Unclassified
+CHANDI,Unclassified
+CHANDIGARH UT (2 DIST.S,Unclassified
+CHANDRAPUR,Unclassified
+CHANGLANG,Unclassified
+CHAPAGURI,Unclassified
+CHARU,Unclassified
+CHATRA,Unclassified
+CHATTARPUR,Unclassified
+CHAVADI,Unclassified
+CHEKHALA,Unclassified
+CHELLANAM,Unclassified
+CHEMBUR,Unclassified
+CHENDIPADA,Unclassified
+CHENGALPATTU,Unclassified
+CHENNAI,Unclassified
+CHERAI,Unclassified
+CHERTHALA,Unclassified
+CHERUVATHUR,Unclassified
+CHHABRA,Unclassified
+CHHATARPUR,Unclassified
+CHHATTISGARH (8 DIST.S,Unclassified
+CHHINDWARA,Unclassified
+CHHOTA UDAIPUR,Unclassified
+CHICALIM VASCO,Unclassified
+CHICKMAGALURU,Unclassified
+CHIKKABALLAPUR,Unclassified
+CHIKKAMAGALURU,Unclassified
+CHIMBEL,Unclassified
+CHINCHWAD,Unclassified
+CHINTAMANI,Unclassified
+CHIPLUN,Unclassified
+CHIRALA,Unclassified
+CHIRANG,Unclassified
+CHITOOR,Unclassified
+CHITRA,Unclassified
+CHITRADURGA,Unclassified
+CHITRAKOOT,Unclassified
+CHITTOOR,Unclassified
+CHITTORGARH,Unclassified
+CHOPANKI,Unclassified
+CHUBWA,Unclassified
+CHURACHANDPUR,Unclassified
+CHURU,Unclassified
+CHUTIA,Unclassified
+COCHIN,Unclassified
+COIMBATORE,Unclassified
+CONNAUGHT PLACE,Unclassified
+COOCH BEHAR,Unclassified
+COORG,Unclassified
+CUDDALORE,Unclassified
+CUTTACK,Unclassified
+DABHASA,Unclassified
+DADHEDA,Unclassified
+DADRA,Unclassified
+DADRI,Unclassified
+DAHANU,Unclassified
+DAHEJ,Unclassified
+DAHOD,Unclassified
+DAKSHINA KANNADA,Unclassified
+DALTANGANJ,Unclassified
+DAMAN,Unclassified
+DAMOH,Unclassified
+DANDDO,Unclassified
+DANGRI,Unclassified
+DANGS,Unclassified
+DANTEWADA,Unclassified
+DARBHANGA,Unclassified
+DARJEELING,Unclassified
+DARRANG,Unclassified
+DAUSA,Unclassified
+DAVANAGERE,Unclassified
+DEDIAPADA,Unclassified
+DEHRADUN,Unclassified
+DELANGA,Unclassified
+DELHI (12 DIST.S,Unclassified
+DELHI (16 DIST.S,Unclassified
+DELHI /NCR,Unclassified
+DEOGARH,Unclassified
+DEOGHAR,Unclassified
+DEOLI,Unclassified
+DEORIA,Unclassified
+DEVAKOTTAI,Unclassified
+DEVBHUMI DWARKA,Unclassified
+DEVGHAR,Unclassified
+DEWAS,Unclassified
+DHABOTA,Unclassified
+DHAMARI,Unclassified
+DHAMDHERE,Unclassified
+DHAMRA,Unclassified
+DHAMTARI,Unclassified
+DHANBAD,Unclassified
+DHANERA,Unclassified
+DHANETI,Unclassified
+DHAR,Unclassified
+DHARAMAPURI,Unclassified
+DHARAMPUR,Unclassified
+DHARAMSHALA,Unclassified
+DHARAVI,Unclassified
+DHARMAPURI,Unclassified
+DHARSIWA,Unclassified
+DHARUHERA,Unclassified
+DHARWAD,Unclassified
+DHAULA KUAN,Unclassified
+DHAULANA,Unclassified
+DHEMAJI,Unclassified
+DHENKANAL,Unclassified
+DHOD,Unclassified
+DHOKSAL,Unclassified
+DHOLPUR,Unclassified
+DHRANGADHRA,Unclassified
+DHULE,Unclassified
+DIBRUGARH,Unclassified
+DICHPALLY,Unclassified
+DIMA HASAO,Unclassified
+DIMAPUR,Unclassified
+DINDIGUL,Unclassified
+DINDORI,Unclassified
+DIPKA,Unclassified
+DIRANG,Unclassified
+DIU UT (2 DIST.S,Unclassified
+DOBRA,Unclassified
+DODDABALLAPUR,Unclassified
+DOLAPURA,Unclassified
+DOLLUNGMUKH,Unclassified
+DOLVI,Unclassified
+DOMBIVALI,Unclassified
+DOMBIVLI,Unclassified
+DONGARBORE,Unclassified
+DONGARGAON,Unclassified
+DONGRI,Unclassified
+DOORIA,Unclassified
+DORBA,Unclassified
+DRONAGIRI NODE,Unclassified
+DUGALI,Unclassified
+DUMKA,Unclassified
+DUMRI,Unclassified
+DUNDI,Unclassified
+DUNDIGAL,Unclassified
+DUNGAR,Unclassified
+DUNGARPUR,Unclassified
+DUNGRI,Unclassified
+DUNSANDLE,Unclassified
+DURG,Unclassified
+DURGAPUR,Unclassified
+DWARKA,Unclassified
+E-MARRIPALEM,Unclassified
+EAST,Unclassified
+EAST GODAVARI,Unclassified
+EAST GODAVARI RURAL,Unclassified
+EAST JAINTIA HILLS,Unclassified
+EAST KHASI HILLS,Unclassified
+EAST KUTCH,Unclassified
+EAST MIDNAPORE,Unclassified
+EAST SIANG,Unclassified
+EAST SIKKIM,Unclassified
+EAST SINGHBHUM,Unclassified
+EAST SINGHBUM,Unclassified
+EKLARI,Unclassified
+ELAMKUNNAPUZHA,Unclassified
+ELLAPURAM,Unclassified
+ENNORE,Unclassified
+ERNAKULAM,Unclassified
+ERODE,Unclassified
+ETAH,Unclassified
+ETAWAH,Unclassified
+ETTIMADAI,Unclassified
+FAIZABAD,Unclassified
+FALTA,Unclassified
+FARAKKA,Unclassified
+FARIDABAD,Unclassified
+FARRUKHABAD,Unclassified
+FATEHABAD,Unclassified
+FATEHGARH SAHIB,Unclassified
+FATEHPUR,Unclassified
+FAZILKA,Unclassified
+FEROZEPUR,Unclassified
+FIROZABAD,Unclassified
+G.K.,Unclassified
+GADAG,Unclassified
+GADCHIROLI,Unclassified
+GADHSHISA,Unclassified
+GAILPUR,Unclassified
+GAJAPATI,Unclassified
+GANDERBAL,Unclassified
+GANDHIDHAM,Unclassified
+GANDHINAGAR,Unclassified
+GANESHPURI,Unclassified
+GANGAKHED,Unclassified
+GANGANAGAR,Unclassified
+GANGTOK,Unclassified
+GANJAM,Unclassified
+GARGAON,Unclassified
+GARHWA,Unclassified
+GARIABAND,Unclassified
+GAUHATI,Unclassified
+GAURIGANJ,Unclassified
+GAUTAM PURI,Unclassified
+GAUTAMBUDDHA NAGAR,Unclassified
+GAUTAMBUDHHA NAGAR,Unclassified
+GAYA,Unclassified
+GHANAULI,Unclassified
+GHAZIABAD,Unclassified
+GHAZIPUR,Unclassified
+GIDDARBAHA,Unclassified
+GINGURTI,Unclassified
+GIR SOMNATH,Unclassified
+GIRIDIH,Unclassified
+GOA (2 DIST.S,Unclassified
+GODDA,Unclassified
+GODHRA,Unclassified
+GOLAGHAT,Unclassified
+GOLAN,Unclassified
+GOLMURI,Unclassified
+GOMIA,Unclassified
+GONDA,Unclassified
+GONDIA,Unclassified
+GOPALGANJ,Unclassified
+GORAKHPUR,Unclassified
+GORELA,Unclassified
+GOTA,Unclassified
+GOVANDI,Unclassified
+GREATER KAILASH - II,Unclassified
+GREATER NOIDA,Unclassified
+GUDUR,Unclassified
+GUJARAT (19 DIST.S,Unclassified
+GUJARAT (6 DIST.S,Unclassified
+GULBARGA,Unclassified
+GULLARWALA,Unclassified
+GULMOHAR PARK,Unclassified
+GUMLA,Unclassified
+GUNA,Unclassified
+GUNDLAMACHNOOR,Unclassified
+GUNTUR,Unclassified
+GURUGRAM,Unclassified
+GUWAHATI,Unclassified
+GWALIOR,Unclassified
+HAFLONG,Unclassified
+HAILAKANDI,Unclassified
+HAJIPUR,Unclassified
+HALDIA,Unclassified
+HALIYAL,Unclassified
+HALOL,Unclassified
+HALQUA PATHARI,Unclassified
+HAMIRPUR,Unclassified
+HANUMAN JUNCTION,Unclassified
+HANUMANGARH,Unclassified
+HANUMANTHAI,Unclassified
+HAPUR,Unclassified
+HARDA,Unclassified
+HARDOI,Unclassified
+HARIDWAR,Unclassified
+HARIPAL,Unclassified
+HARYANA (20 DIST.S,Unclassified
+HARYANA (3 DIST.S,Unclassified
+HASSAN,Unclassified
+HATA,Unclassified
+HATNOORA MANDAL,Unclassified
+HAVERI,Unclassified
+HAWRAH,Unclassified
+HAZARIBAG,Unclassified
+HAZIRA,Unclassified
+HEBBAGUDI,Unclassified
+HENSAL,Unclassified
+HIMACHAL PRADESH (8 DIST.S,Unclassified
+HIMMATNAGAR,Unclassified
+HINGOLI,Unclassified
+HISAR,Unclassified
+HONNAKALASAPURA,Unclassified
+HOOGHLY,Unclassified
+HOOTAGALLI,Unclassified
+HOSANGABAD,Unclassified
+HOSHANGABAD,Unclassified
+HOSHIARPUR,Unclassified
+HOSKOTE,Unclassified
+HOSPET,Unclassified
+HOSUR,Unclassified
+HOWRAH,Unclassified
+HUBLI,Unclassified
+HVERI,Unclassified
+HYDERABAD,Unclassified
+IDUKKI,Unclassified
+IGATPURI,Unclassified
+IIT ROORKEE,Unclassified
+IMPHAL,Unclassified
+IMPHAL EAST,Unclassified
+IMPHAL WEST,Unclassified
+INDORE,Unclassified
+INDRAD,Unclassified
+ITI KADI,Unclassified
+JABALPUR,Unclassified
+JADAVPUR,Unclassified
+JADAYAM PALAYAM,Unclassified
+JADCHERLA MANDAL,Unclassified
+JAGATHSINGHPUR,Unclassified
+JAGATPURA,Unclassified
+JAGATSINGHPUR,Unclassified
+JAGESHWAR,Unclassified
+JAHANABAD,Unclassified
+JAINPUR,Unclassified
+JAIPUR,Unclassified
+JAISALMER,Unclassified
+JAJPUR,Unclassified
+JALANDHAR,Unclassified
+JALAUN,Unclassified
+JALGAON,Unclassified
+JALNA,Unclassified
+JALORE,Unclassified
+JALPAIGURI,Unclassified
+JAMBUSAR,Unclassified
+JAMMU,Unclassified
+JAMNAGAR,Unclassified
+JAMNAMARATHUR,Unclassified
+JAMSHEDPUR,Unclassified
+JAMUI,Unclassified
+JANJGIR,Unclassified
+JANJGIR-CHAMPA,Unclassified
+JANTAR MANTAR,Unclassified
+JAORA,Unclassified
+JASHPUR,Unclassified
+JASIDIH,Unclassified
+JASOLA VIHAR,Unclassified
+JATNI,Unclassified
+JAUNPUR,Unclassified
+JAWAHAR,Unclassified
+JAYKAYPURAM,Unclassified
+JEHANABAD,Unclassified
+JERALDABARU,Unclassified
+JHABUA,Unclassified
+JHAGADIA,Unclassified
+JHAJJAR,Unclassified
+JHALAWAR,Unclassified
+JHANSI,Unclassified
+JHARKHAND (16 DIST.S,Unclassified
+JHARLI,Unclassified
+JHARSUGUDA,Unclassified
+JHATTA,Unclassified
+JHUNJHUNU,Unclassified
+JHURKI,Unclassified
+JIGANI,Unclassified
+JIND,Unclassified
+JINNARAM MANDALS,Unclassified
+JIRIBAM,Unclassified
+JOBNER,Unclassified
+JODA,Unclassified
+JODHPUR,Unclassified
+JOGULAMBA GADWAL,Unclassified
+JORHAT,Unclassified
+JUGSALAI,Unclassified
+JUNAGADH,Unclassified
+K.G.CHAVADI,Unclassified
+KABENNUR,Unclassified
+KACHCHH,Unclassified
+KACHHE,Unclassified
+KADAIYA,Unclassified
+KADAPA,Unclassified
+KADI,Unclassified
+KADIPANI,Unclassified
+KADIYALI,Unclassified
+KADIYAM,Unclassified
+KAGAL,Unclassified
+KAHARANI,Unclassified
+KAITHAL,Unclassified
+KAKINADA,Unclassified
+KAKKANAD,Unclassified
+KALABURAGI,Unclassified
+KALAHANDI,Unclassified
+KALAMASSERY,Unclassified
+KALAPET,Unclassified
+KALCHINI,Unclassified
+KALIAPANI,Unclassified
+KALKAJI,Unclassified
+KALMESHWAR,Unclassified
+KALMET THANDA,Unclassified
+KALOL,Unclassified
+KALYAN,Unclassified
+KALYANI,Unclassified
+KAMARAJAPURAM,Unclassified
+KAMARHATI,Unclassified
+KAMLESHWAR,Unclassified
+KAMRUP,Unclassified
+KAMRUP METROPOLITAN,Unclassified
+KAMRUP RURAL,Unclassified
+KANAKAPURA,Unclassified
+KANCHEEPURAM,Unclassified
+KANDAGHAT,Unclassified
+KANDHAMAL,Unclassified
+KANDIVALI,Unclassified
+KANGRA,Unclassified
+KANJIRAPPILLY,Unclassified
+KANKER,Unclassified
+KANKROLI,Unclassified
+KANMAU,Unclassified
+KANNADA,Unclassified
+KANNADI,Unclassified
+KANNAUJ,Unclassified
+KANNUR,Unclassified
+KANPUR,Unclassified
+KANPUR DEHAT,Unclassified
+KANPUR NAGAR,Unclassified
+KANSBAHAL,Unclassified
+KANYAKUMARI,Unclassified
+KAPURTHALA,Unclassified
+KARAIKAL,Unclassified
+KARAIKUDI,Unclassified
+KARAMSAD,Unclassified
+KARAN NAGAR,Unclassified
+KARAULI,Unclassified
+KARELI,Unclassified
+KARGIL,Unclassified
+KARIMGANJ,Unclassified
+KARIMNAGAR,Unclassified
+KARJAN,Unclassified
+KARJAT,Unclassified
+KARKALA,Unclassified
+KARKARDOOMA,Unclassified
+KARNAL,Unclassified
+KARNATAKA (15 DIST.S,Unclassified
+KARNATAKA (2 DIST.S,Unclassified
+KARUR,Unclassified
+KARUVELAPPADI,Unclassified
+KARWAR,Unclassified
+KASARGOD,Unclassified
+KASHINAGAR,Unclassified
+KASHIPUR,Unclassified
+KASHMIR,Unclassified
+KASHMIR (12 DIST.S,Unclassified
+KASIPALAYAM,Unclassified
+KATAI,Unclassified
+KATHA,Unclassified
+KATHERU,Unclassified
+KATHUA,Unclassified
+KATIHAR,Unclassified
+KATNI,Unclassified
+KATOL,Unclassified
+KATRA,Unclassified
+KAUSHAMBI,Unclassified
+KAVARAPATTU,Unclassified
+KAWARDHA,Unclassified
+KECHLA,Unclassified
+KENDRAPADA,Unclassified
+KENDRAPARA,Unclassified
+KENDUJHAR,Unclassified
+KENGERI,Unclassified
+KEOJHAR,Unclassified
+KEONJHAR,Unclassified
+KERALA (1 DIST.,Unclassified
+KERALA (4 DIST.S,Unclassified
+KHAGARIA,Unclassified
+KHALAPUR,Unclassified
+KHAMMAM,Unclassified
+KHANDAPADA,Unclassified
+KHANDAWA,Unclassified
+KHANDWA,Unclassified
+KHANNA,Unclassified
+KHANVA,Unclassified
+KHANVEL,Unclassified
+KHARADI,Unclassified
+KHARAGPUR,Unclassified
+KHARCHI,Unclassified
+KHARGHAR,Unclassified
+KHARGONE,Unclassified
+KHEDA,Unclassified
+KHEDOI,Unclassified
+KHERANI,Unclassified
+KHIJRABAD,Unclassified
+KHODIYAR,Unclassified
+KHOLA,Unclassified
+KHOPOLI,Unclassified
+KHORAJ,Unclassified
+KHORDA,Unclassified
+KHORDHA,Unclassified
+KHUDUPUR,Unclassified
+KHUMBHALGARH,Unclassified
+KHUNTI,Unclassified
+KHURDA,Unclassified
+KHUSHKHERA,Unclassified
+KHWABGAH,Unclassified
+KIDI,Unclassified
+KINNAUR,Unclassified
+KISHENPUR,Unclassified
+KISHTWAR,Unclassified
+KOCHI,Unclassified
+KODAGU,Unclassified
+KODAIKANAL,Unclassified
+KODAKARA,Unclassified
+KODERMA,Unclassified
+KODEYERI,Unclassified
+KOHIMA,Unclassified
+KOHLAPUR,Unclassified
+KOKRAJHAR,Unclassified
+KOLABIRA,Unclassified
+KOLAR,Unclassified
+KOLASIB,Unclassified
+KOLHAPUR,Unclassified
+KOLKATA,Unclassified
+KOLLAM,Unclassified
+KONDAGAON,Unclassified
+KONDAPALLI,Unclassified
+KONDHALI,Unclassified
+KONKAN,Unclassified
+KOPARGAON,Unclassified
+KOPPAL,Unclassified
+KORADGAON,Unclassified
+KORAPUT,Unclassified
+KORATAKAGERE,Unclassified
+KORBA,Unclassified
+KOSI KALAN,Unclassified
+KOTA,Unclassified
+KOTABOMMALI,Unclassified
+KOTDWAR,Unclassified
+KOTHAMUNCHUR,Unclassified
+KOTPUTLI,Unclassified
+KOTTAYAM,Unclassified
+KOVVUR,Unclassified
+KOZHIKODE,Unclassified
+KRISHNA,Unclassified
+KRISHNAGIRI,Unclassified
+KRISHNAPURAM,Unclassified
+KUDGI,Unclassified
+KULGAM,Unclassified
+KULLU,Unclassified
+KUMARAKOM,Unclassified
+KUMARGHAT,Unclassified
+KUMBAKONAM,Unclassified
+KUMBHALGARH,Unclassified
+KUMBHARIYA,Unclassified
+KUMREK,Unclassified
+KUNDA,Unclassified
+KUNDAL,Unclassified
+KUNDLI,Unclassified
+KUPWARA,Unclassified
+KURKUMBH,Unclassified
+KURLA,Unclassified
+KURNOOL,Unclassified
+KURUKSHETRA,Unclassified
+KUSHINAGAR,Unclassified
+KUTHAMBAKKAM,Unclassified
+L,Unclassified
+LACHHMANGARH,Unclassified
+LAHAUL,Unclassified
+LAHORI,Unclassified
+LAKHIGAM,Unclassified
+LAKHIMPUR,Unclassified
+LAKHIMPUR KHERI,Unclassified
+LAKHISARAI,Unclassified
+LALITPUR,Unclassified
+LAMBHUA,Unclassified
+LATEHAR,Unclassified
+LATUR,Unclassified
+LAXMIPURA,Unclassified
+LEH,Unclassified
+LILUAH,Unclassified
+LIMDA,Unclassified
+LOCAL AREA MAHARASHTRA,Unclassified
+LOHARDAGA,Unclassified
+LOHIT,Unclassified
+LONAVALA,Unclassified
+LORMI,Unclassified
+LOTE,Unclassified
+LOWER DIBANG VALLEY,Unclassified
+LUCKNOW,Unclassified
+LUDHIANA,Unclassified
+LUVARA,Unclassified
+MAAN,Unclassified
+MACHILIPATNAM,Unclassified
+MADANSURI,Unclassified
+MADHEPURA,Unclassified
+MADHUBANI,Unclassified
+MADHUPUR,Unclassified
+MADHYA PRADESH (23 DIST.S,Unclassified
+MADIPUR,Unclassified
+MADURAI,Unclassified
+MADURANTHAKAM,Unclassified
+MAHAD,Unclassified
+MAHANKALIGUDEM,Unclassified
+MAHARAJGANJ,Unclassified
+MAHARASHTRA (27 DIST.S,Unclassified
+MAHARASHTRA (6 DIST.S,Unclassified
+MAHASANSTHANAM,Unclassified
+MAHBUBNAGAR,Unclassified
+MAHENDRAGARH,Unclassified
+MAHUKALA,Unclassified
+MAINPURI,Unclassified
+MAJERHAAT,Unclassified
+MAJHAULI,Unclassified
+MALAD,Unclassified
+MALANPUR,Unclassified
+MALAPPURAM,Unclassified
+MALDA,Unclassified
+MALIHABAD,Unclassified
+MALLEPALLY,Unclassified
+MALWA,Unclassified
+MAMALLAPURAM,Unclassified
+MAMUARA,Unclassified
+MANALI,Unclassified
+MANDAL,Unclassified
+MANDAVGAN,Unclassified
+MANDHAR,Unclassified
+MANDI,Unclassified
+MANDIDEEP,Unclassified
+MANDLA,Unclassified
+MANDONI,Unclassified
+MANDSAUR,Unclassified
+MANDVI,Unclassified
+MANDYA,Unclassified
+MANEJA,Unclassified
+MANERI,Unclassified
+MANESAR,Unclassified
+MANGALURU,Unclassified
+MANIKDAUNDI,Unclassified
+MANINAGAR,Unclassified
+MANIPUR (2 DIST.S,Unclassified
+MAPUSA,Unclassified
+MARATHWADA,Unclassified
+MARCEL,Unclassified
+MARGAO,Unclassified
+MARIANI,Unclassified
+MARWAHI,Unclassified
+MASAR,Unclassified
+MATA NO MADH,Unclassified
+MATHURA,Unclassified
+MATTATHUR,Unclassified
+MAYURBHANJ,Unclassified
+MEDAK,Unclassified
+MEDCHAL,Unclassified
+MEDINIPUR,Unclassified
+MEERUT,Unclassified
+MEGHALAYA (6 DIST.S,Unclassified
+MEHSANA,Unclassified
+MELAIYUR,Unclassified
+MELATTUR,Unclassified
+MELGHAT,Unclassified
+MENAKURU,Unclassified
+METTUPALAYAM,Unclassified
+MEWAT,Unclassified
+MHOW,Unclassified
+MIDNAPORE,Unclassified
+MINJUR,Unclassified
+MIRAJ,Unclassified
+MIRZAPUR,Unclassified
+MIYAPUR MANDAL,Unclassified
+MIZORAM (1 DIST.,Unclassified
+MODASA,Unclassified
+MOGA,Unclassified
+MOGALIPURAM,Unclassified
+MOHADI,Unclassified
+MOHALI,Unclassified
+MOHOL,Unclassified
+MOKHADA,Unclassified
+MOLARBAND,Unclassified
+MON,Unclassified
+MORADABAD,Unclassified
+MORBI,Unclassified
+MORENA,Unclassified
+MORIGAON,Unclassified
+MORMUGAO,Unclassified
+MOUNT ABU,Unclassified
+MUDIPU,Unclassified
+MUDIS,Unclassified
+MUKTSAR,Unclassified
+MULSHI,Unclassified
+MULUND,Unclassified
+MUMBAI,Unclassified
+MUNDI,Unclassified
+MUNDRA,Unclassified
+MUNGELI,Unclassified
+MUNGER,Unclassified
+MUNINDA,Unclassified
+MUNNALURU,Unclassified
+MUNNAR,Unclassified
+MUNNURPET,Unclassified
+MURBAD,Unclassified
+MURSHIDABAD,Unclassified
+MUSSOORIE,Unclassified
+MUTHI,Unclassified
+MUZAFFARNAGAR,Unclassified
+MUZAFFARPUR,Unclassified
+MYLAPORE,Unclassified
+MYSURU,Unclassified
+NABHA,Unclassified
+NABRANGPUR,Unclassified
+NADIA,Unclassified
+NADIAD,Unclassified
+NAGAON,Unclassified
+NAGAPATTINAM,Unclassified
+NAGARDHAN,Unclassified
+NAGAUR,Unclassified
+NAGDA,Unclassified
+NAGERCOIL,Unclassified
+NAGPUR,Unclassified
+NAGPUR DIST.,Unclassified
+NAIDUPETA MANDAL,Unclassified
+NAIGAON,Unclassified
+NAINI,Unclassified
+NAINITAL,Unclassified
+NALAGARH,Unclassified
+NALANDA,Unclassified
+NALBARI,Unclassified
+NALGONDA,Unclassified
+NALLANUR,Unclassified
+NAMAKKAL,Unclassified
+NAMCHI,Unclassified
+NANAKAPAYA,Unclassified
+NANDAYAL,Unclassified
+NANDED,Unclassified
+NANDESARI,Unclassified
+NANDIGAMA,Unclassified
+NANDIGAON,Unclassified
+NANDURBAR,Unclassified
+NANGAL,Unclassified
+NANGLOI,Unclassified
+NANITAL,Unclassified
+NANJANGUD,Unclassified
+NAOGAON,Unclassified
+NARAINPUR,Unclassified
+NARANGPUR,Unclassified
+NARAYANPUR,Unclassified
+NARMADA,Unclassified
+NAROTTAM NAGAR,Unclassified
+NARSAPUR MANDAL,Unclassified
+NARSAPUR SNEHABANDU,Unclassified
+NARSINGHPUR,Unclassified
+NARSOBAWADI,Unclassified
+NASHIK,Unclassified
+NAUGAMA,Unclassified
+NAUPUR,Unclassified
+NAVI MUMBAI,Unclassified
+NAVSARI,Unclassified
+NAWADA,Unclassified
+NAWALGARH,Unclassified
+NAYA RAIPUR,Unclassified
+NAYAGARH,Unclassified
+NAZIKPANGARI,Unclassified
+NEDUNKULAM,Unclassified
+NEEMRANA,Unclassified
+NEEMUCH,Unclassified
+NEGERCOIL,Unclassified
+NELAMANGALA,Unclassified
+NELLIKUPPAM,Unclassified
+NELLORE,Unclassified
+NENAVA,Unclassified
+NEW DELHI,Unclassified
+NEW MULUND,Unclassified
+NEWAI,Unclassified
+NIGRIE,Unclassified
+NIHALPUR,Unclassified
+NIKETAN,Unclassified
+NILGIRIS,Unclassified
+NIPANIYA,Unclassified
+NIZAMABAD,Unclassified
+NOIDA,Unclassified
+NORTH,Unclassified
+NORTH 24 PARGANAS,Unclassified
+NORTH GOA,Unclassified
+NORTH GUWAHATI,Unclassified
+NORTH INDORE,Unclassified
+NUAPADA,Unclassified
+NUH,Unclassified
+ODISHA (12 DIST.S,Unclassified
+OGNAJ,Unclassified
+OKHA,Unclassified
+OKHLA,Unclassified
+OLD GOA,Unclassified
+ONGOLE,Unclassified
+OOTY,Unclassified
+ORAGADAM,Unclassified
+ORAI,Unclassified
+ORTHANADU,Unclassified
+OSMANABAD,Unclassified
+PADALI,Unclassified
+PADDHAR,Unclassified
+PADGHE,Unclassified
+PADIYANALLUR,Unclassified
+PAHARPUR,Unclassified
+PAKUR,Unclassified
+PALAKKAD,Unclassified
+PALAMANER,Unclassified
+PALAMPUR,Unclassified
+PALAMU,Unclassified
+PALANPUR,Unclassified
+PALGHAR,Unclassified
+PALI,Unclassified
+PALLI,Unclassified
+PALWAL,Unclassified
+PAMPORE,Unclassified
+PANAJI,Unclassified
+PANANDHRO,Unclassified
+PANCHKULA,Unclassified
+PANCHMAHAL,Unclassified
+PANDARIYA,Unclassified
+PANDHRO,Unclassified
+PANIPAT,Unclassified
+PANJHERA,Unclassified
+PANNA,Unclassified
+PANOLI,Unclassified
+PANTNAGAR,Unclassified
+PANVEL,Unclassified
+PANWARIA,Unclassified
+PAPUM PARE,Unclassified
+PARADEEP,Unclassified
+PARAMARTH,Unclassified
+PARBHANI,Unclassified
+PARGANAS,Unclassified
+PARLI,Unclassified
+PARREKODO,Unclassified
+PARWANOO,Unclassified
+PASCHIM MEDINIPUR,Unclassified
+PASHAN,Unclassified
+PATALGANGA,Unclassified
+PATAN,Unclassified
+PATANCHERU,Unclassified
+PATAUDI,Unclassified
+PATELAD,Unclassified
+PATHAGAR,Unclassified
+PATHANAMTHITTA,Unclassified
+PATHANKOT,Unclassified
+PATIALA,Unclassified
+PATNA,Unclassified
+PATRATU,Unclassified
+PAUD,Unclassified
+PAUDI,Unclassified
+PAVAGADA,Unclassified
+PEDAPALLI,Unclassified
+PEDDAKANDUKUR,Unclassified
+PERAMBALUR,Unclassified
+PERAMBRA,Unclassified
+PERUMBAKKAM,Unclassified
+PERUMBALAM,Unclassified
+PERUNDURAI,Unclassified
+PETTAVAITHALAI,Unclassified
+PHALTAN,Unclassified
+PHILLAUR,Unclassified
+PHILLOR,Unclassified
+PILERNE,Unclassified
+PILIBHIT,Unclassified
+PILKHUWA,Unclassified
+PILLAICHAVADI,Unclassified
+PILLIKARAR,Unclassified
+PIMPRI,Unclassified
+PITAMPURA,Unclassified
+PITHAMPUR,Unclassified
+PITHORAGARH,Unclassified
+POLLACHI,Unclassified
+PONDA,Unclassified
+PONNAPUR,Unclassified
+PONNERI,Unclassified
+POONCH,Unclassified
+POOVAR,Unclassified
+PORBANDAR,Unclassified
+PORT BLAIR,Unclassified
+PORUR,Unclassified
+POTHEPALLI,Unclassified
+PRAKASAM,Unclassified
+PRATAPGARH,Unclassified
+PREGNAPUR,Unclassified
+PREMBARI PUL NEAR WAZIRPUR,Unclassified
+PUDUCHERRY UT (3 DIST.S,Unclassified
+PUDUKKOTTAI,Unclassified
+PUDUPAKKAM,Unclassified
+PUGALUR,Unclassified
+PUJALI,Unclassified
+PULICAT,Unclassified
+PULWAMA,Unclassified
+PUNE,Unclassified
+PUNJAB (3 DIST.S,Unclassified
+PURBA MEDINIPUR,Unclassified
+PURI,Unclassified
+PURNEA,Unclassified
+PURULIA,Unclassified
+PYDIBHIMAVARAM,Unclassified
+QUTHBULLAPUR,Unclassified
+RADHANPUR,Unclassified
+RAEBARELI,Unclassified
+RAICHUR,Unclassified
+RAIGAD,Unclassified
+RAIGARH,Unclassified
+RAIGHAR,Unclassified
+RAILMAGRA,Unclassified
+RAIPUR,Unclassified
+RAISEN,Unclassified
+RAJAHMUNDRY,Unclassified
+RAJANNA SIRCILLA,Unclassified
+RAJAPALAYAM,Unclassified
+RAJAPURAM,Unclassified
+RAJARHAT,Unclassified
+RAJASTHAN (12 DIST.S,Unclassified
+RAJASTHAN (8 DIST.S,Unclassified
+RAJKOT,Unclassified
+RAJMUNDRY,Unclassified
+RAJNANDGAON,Unclassified
+RAJOURI,Unclassified
+RAJPARDI,Unclassified
+RAJPURA,Unclassified
+RAJSAMAND,Unclassified
+RAJULA,Unclassified
+RAMAKRISHANA ASHRAM MARG,Unclassified
+RAMANAGARA,Unclassified
+RAMANATHAPURAM,Unclassified
+RAMESHWARAM,Unclassified
+RAMGARH,Unclassified
+RAMPARA,Unclassified
+RAMPUR,Unclassified
+RAMSHEHER,Unclassified
+RAMTEK,Unclassified
+RANAGHAT,Unclassified
+RANASTHALAM MANDAL,Unclassified
+RANCHI,Unclassified
+RANGA REDDY,Unclassified
+RANGIT,Unclassified
+RANGPO,Unclassified
+RANIA,Unclassified
+RANIKHET,Unclassified
+RANIPET,Unclassified
+RANJANGAON,Unclassified
+RANJIT NAGAR,Unclassified
+RANOLI,Unclassified
+RAS,Unclassified
+RATHNAGIRI,Unclassified
+RATLAM,Unclassified
+RATNAGIRI,Unclassified
+RAU,Unclassified
+RAVIPAHAD,Unclassified
+RAYAGADA,Unclassified
+REASI,Unclassified
+REDHILLS,Unclassified
+REHLA,Unclassified
+RENUKOOT,Unclassified
+REPALLE,Unclassified
+REWA,Unclassified
+REWARI,Unclassified
+RI BHOI,Unclassified
+RINGNABODI,Unclassified
+RISEN,Unclassified
+RISHIKESH,Unclassified
+ROHA,Unclassified
+ROHTAK,Unclassified
+ROHTAS,Unclassified
+ROJHANI,Unclassified
+ROJMAL,Unclassified
+ROOPNAGAR,Unclassified
+ROORKEE,Unclassified
+ROPAR,Unclassified
+ROURKELA,Unclassified
+RUDRAPRAYAG,Unclassified
+RUDRAPUR,Unclassified
+RUPNAGAR,Unclassified
+SABAR KAANTHA,Unclassified
+SABARKANTHA,Unclassified
+SADLA,Unclassified
+SADRI,Unclassified
+SADULLAPUR,Unclassified
+SAGAR,Unclassified
+SAHARANPUR,Unclassified
+SAHARSA,Unclassified
+SAHIBGANJ,Unclassified
+SAHIBZADA AJIT SINGH NAGAR,Unclassified
+SAHUPURAM,Unclassified
+SAIHA,Unclassified
+SAKET,Unclassified
+SALAPAVANIPALEM,Unclassified
+SALEM,Unclassified
+SALEPUR,Unclassified
+SALIGAO CIRCLE,Unclassified
+SAMAGHOGHA,Unclassified
+SAMALKOT,Unclassified
+SAMASTIPUR,Unclassified
+SAMBA,Unclassified
+SAMBALPUR,Unclassified
+SAMBHAL,Unclassified
+SAMBHALPUR,Unclassified
+SANAND,Unclassified
+SANASWADI,Unclassified
+SANATH NAGAR,Unclassified
+SANDHOLI,Unclassified
+SANGALI,Unclassified
+SANGAREDDY,Unclassified
+SANGLI,Unclassified
+SANGRUR,Unclassified
+SANKARI,Unclassified
+SANKHESHWAR,Unclassified
+SANKILI,Unclassified
+SARAIKELA-KHARSAWAN,Unclassified
+SARAN,Unclassified
+SARANGPUR,Unclassified
+SARDARPURA,Unclassified
+SARIEKELA,Unclassified
+SARIGAM,Unclassified
+SARIKELA,Unclassified
+SASHTITALA,Unclassified
+SATARA,Unclassified
+SATARA DIST.,Unclassified
+SATHARIA,Unclassified
+SATHYAMANGALAM,Unclassified
+SATNA,Unclassified
+SAURASHTRA,Unclassified
+SAVLI,Unclassified
+SAWAI MADHOPUR,Unclassified
+SECUNDERABAD,Unclassified
+SEEMANDHARA,Unclassified
+SEHORE,Unclassified
+SENAPATI,Unclassified
+SEOHAR,Unclassified
+SEONI,Unclassified
+SERAIKELA,Unclassified
+SERAIKELA-KHARSAWAN,Unclassified
+SHAHABAD,Unclassified
+SHAHADOL,Unclassified
+SHAHAPUR,Unclassified
+SHAHDARA,Unclassified
+SHAHDOL,Unclassified
+SHAHEED BHAGAT SINGH NAGAR,Unclassified
+SHAHJAHANPUR,Unclassified
+SHAHPUR,Unclassified
+SHAJAPUR,Unclassified
+SHAKARPUR,Unclassified
+SHALIMAR,Unclassified
+SHALIMAR BAGH,Unclassified
+SHAMEERPET,Unclassified
+SHEIKHPURA,Unclassified
+SHEOPUR,Unclassified
+SHERPUR,Unclassified
+SHIKAR,Unclassified
+SHILLONG,Unclassified
+SHIMLA,Unclassified
+SHIMOGA,Unclassified
+SHINGAVE,Unclassified
+SHIRALI,Unclassified
+SHIRUR,Unclassified
+SHIRWAL,Unclassified
+SHIVAMOGGA,Unclassified
+SHIVPURI,Unclassified
+SHIYAL BET,Unclassified
+SHOLAPUR,Unclassified
+SHOPIAN,Unclassified
+SHRAVANABELAGOLA,Unclassified
+SHRAVASTI,Unclassified
+SIANG,Unclassified
+SIBSAGAR,Unclassified
+SIDDIPET,Unclassified
+SIDHI,Unclassified
+SIDHPUR,Unclassified
+SIDIHOSKOTE,Unclassified
+SIHORE,Unclassified
+SIKANDRABAD,Unclassified
+SIKAR,Unclassified
+SIKKIM (2 DIST.S,Unclassified
+SILCHAR,Unclassified
+SILIGURI,Unclassified
+SILTARA,Unclassified
+SILVASSA,Unclassified
+SIMDEGA,Unclassified
+SINDHROT,Unclassified
+SINDHUDURG,Unclassified
+SINGAMPATTI,Unclassified
+SINGHBHUM,Unclassified
+SINGHBHUM EAST,Unclassified
+SINGRAULI,Unclassified
+SINNAR,Unclassified
+SIRMAUR,Unclassified
+SIROHI,Unclassified
+SIROLI,Unclassified
+SIRSA,Unclassified
+SIRSI,Unclassified
+SITAPUR,Unclassified
+SITARGANJ,Unclassified
+SIVAGANGA,Unclassified
+SIVASAGAR,Unclassified
+SOHNA,Unclassified
+SOLAN,Unclassified
+SOLAPUR,Unclassified
+SOMAVAL,Unclassified
+SOMNATH,Unclassified
+SONARPUR,Unclassified
+SONBHADRA,Unclassified
+SONEPUR,Unclassified
+SONIPAT,Unclassified
+SONITPUR,Unclassified
+SOUTH 24 PARGANAS,Unclassified
+SOUTH ANDAMAN,Unclassified
+SOUTH GOA,Unclassified
+SOUTH INDORE,Unclassified
+SOUTH SIKKIM,Unclassified
+SOUTH WEST DELHI,Unclassified
+SPITI,Unclassified
+SRI GANGANAGAR,Unclassified
+SRIKAKULAM,Unclassified
+SRIKALAHASTI,Unclassified
+SRIKONA,Unclassified
+SRIMADHOPUR,Unclassified
+SRINAGAR,Unclassified
+SRINGERI,Unclassified
+SRINIWASPURI,Unclassified
+SRIPERUMBUDUR,Unclassified
+SRIRAMPORE,Unclassified
+SRIRANGAM,Unclassified
+SSIRODA,Unclassified
+SUDERGARH,Unclassified
+SUKMA,Unclassified
+SULAWAD,Unclassified
+SUNDARBANS,Unclassified
+SUNDARGARH,Unclassified
+SUNDER NAGAR,Unclassified
+SUNYAPAHAD,Unclassified
+SURAGAJAKKANAHALLI PANCHAYAT,Unclassified
+SURAMPALEM,Unclassified
+SURAT,Unclassified
+SURATGARH,Unclassified
+SURENDRANAGAR,Unclassified
+SURGUJA,Unclassified
+SURYAPET,Unclassified
+SUTARWADI,Unclassified
+TADKESHWAR,Unclassified
+TAIMOOR NAGAR,Unclassified
+TAKDAH,Unclassified
+TALCHER,Unclassified
+TALEGAON,Unclassified
+TALODARA,Unclassified
+TALOJA,Unclassified
+TALOJA M.I.D.C.,Unclassified
+TALPURA,Unclassified
+TALUKA,Unclassified
+TALUKA VELHE,Unclassified
+TAMENGLONG,Unclassified
+TAMIL NADU ( 7 DIST.S,Unclassified
+TAMIL NADU (9 DIST.S,Unclassified
+TAPAR,Unclassified
+TAPI,Unclassified
+TARAPUR,Unclassified
+TARN TARAN,Unclassified
+TAURU,Unclassified
+TAWANG,Unclassified
+TEESTA,Unclassified
+TEHRI,Unclassified
+TEHRI GARHWAL,Unclassified
+TEKKALI,Unclassified
+TELANGANA (3 DIST.S,Unclassified
+TELANGANA (4 DIST.S,Unclassified
+TELANGANA (KHAMMAM,Unclassified
+TENALI,Unclassified
+TENSA,Unclassified
+TEZPUR,Unclassified
+TEZU,Unclassified
+THAKIPATHAR,Unclassified
+THANA,Unclassified
+THANE,Unclassified
+THANJAVUR,Unclassified
+THEKKADY,Unclassified
+THENI,Unclassified
+THIRUBUVANAI,Unclassified
+THIRUVANANTHAPURAM,Unclassified
+THIRUVARUR,Unclassified
+THIRUVENDHIPURAM,Unclassified
+THOOTHUKUDI,Unclassified
+THOUBAL,Unclassified
+THRISSUR,Unclassified
+TILONIA,Unclassified
+TINSUKIA,Unclassified
+TIPTUR,Unclassified
+TIRAP,Unclassified
+TIRODA,Unclassified
+TIRUCHIRAPPALLI,Unclassified
+TIRUNELVELI,Unclassified
+TIRUPATI,Unclassified
+TIRUPPUR,Unclassified
+TIRUVALLUR,Unclassified
+TIRUVANNAMALAI,Unclassified
+TIRUVARUR,Unclassified
+TIRUVOTTIYUR,Unclassified
+TITAGARH,Unclassified
+TOANSA,Unclassified
+TONDIYARPET,Unclassified
+TONK,Unclassified
+TOOPRAN,Unclassified
+TOWNSHIP,Unclassified
+TRICHUR,Unclassified
+TRICHY,Unclassified
+TRIPURA (1 DIST.,Unclassified
+TRISSUR,Unclassified
+TUENSANG,Unclassified
+TUGHLAKABAD,Unclassified
+TUIVAMIT,Unclassified
+TUMAKURU,Unclassified
+TUMKUR,Unclassified
+TUNGI,Unclassified
+TUNTURI,Unclassified
+TURBHE,Unclassified
+TUTICORIN,Unclassified
+UDAIPUR,Unclassified
+UDALGURI,Unclassified
+UDHAGAMANDALAM,Unclassified
+UDHAM SINGH NAGAR,Unclassified
+UDHAMPUR,Unclassified
+UDUMALPET,Unclassified
+UDUPI,Unclassified
+UJJAIN,Unclassified
+UKHRUL,Unclassified
+ULAVI,Unclassified
+ULUNDURPET,Unclassified
+UMARIA,Unclassified
+UMARSAR,Unclassified
+UMRETH,Unclassified
+UNA,Unclassified
+UNAKOTI,Unclassified
+UNNAO,Unclassified
+UPPER MAMRING,Unclassified
+UPPILIPALAYAM,Unclassified
+URAWADE,Unclassified
+URI,Unclassified
+URSE,Unclassified
+UTTAR DINAJPUR,Unclassified
+UTTAR KANNADA,Unclassified
+UTTAR PRADESH (2 DIST.S,Unclassified
+UTTAR PRADESH (24 DIST.S,Unclassified
+UTTARAKHAND (1 DIST.,Unclassified
+UTTARAKHAND (DEHRADUN,Unclassified
+UTTARANCHAL,Unclassified
+UTTARKASHI,Unclassified
+UTTARPARA,Unclassified
+VADAPALLI,Unclassified
+VADODARA,Unclassified
+VADWARA,Unclassified
+VAGRA,Unclassified
+VAIJNATH,Unclassified
+VAISHALI,Unclassified
+VAKHATPURA,Unclassified
+VALAGARAHALLI,Unclassified
+VALLA,Unclassified
+VALLAM,Unclassified
+VALLORE,Unclassified
+VALMIKIPURAM MANDAL,Unclassified
+VALPOI,Unclassified
+VALSAD,Unclassified
+VANAPARTHI MANDAL,Unclassified
+VANI,Unclassified
+VANYAVEER,Unclassified
+VAPI,Unclassified
+VARANASI,Unclassified
+VARDHMAN,Unclassified
+VASAI,Unclassified
+VASANT KUNJ,Unclassified
+VASANTNAGAR,Unclassified
+VASHERE,Unclassified
+VASHI,Unclassified
+VASIND,Unclassified
+VATRAK,Unclassified
+VAZHAKULAM,Unclassified
+VEERAVARAM,Unclassified
+VELLIVOYALCHAVADI,Unclassified
+VELLORE,Unclassified
+VEMAGIRI,Unclassified
+VEMBAKKAM,Unclassified
+VENKATAGIRI,Unclassified
+VIDARBHA,Unclassified
+VIDISHA,Unclassified
+VIDYA NAGAR,Unclassified
+VIJAIPUR,Unclassified
+VIJAYANAGAR,Unclassified
+VIJAYANAGARAM,Unclassified
+VIJAYAPURA,Unclassified
+VIJAYAWADA,Unclassified
+VIJAYPURA,Unclassified
+VIJAYWADA,Unclassified
+VIKASSHEEL,Unclassified
+VIKHROLI,Unclassified
+VIKRAMGAD,Unclassified
+VILAVOORKAL,Unclassified
+VILE PARLE,Unclassified
+VILLAGE ADARGUNCHI,Unclassified
+VILLAGE BHADRA,Unclassified
+VILLAGE BORPATLA,Unclassified
+VILLAGE CHINTALAPUDI,Unclassified
+VILLAGE GADDAPOTHARAM,Unclassified
+VILLAGE KOTHAPALLI,Unclassified
+VILLAGE KOWKUNTLA,Unclassified
+VILLAGE KUMMARAPALLI,Unclassified
+VILLAGE MENTADA,Unclassified
+VILLAGE MENTAPALLI,Unclassified
+VILLAGE PASHAMYLARAM,Unclassified
+VILLAGE SARAGADAPETA,Unclassified
+VILUPPURAM,Unclassified
+VIRAJPET,Unclassified
+VIRAMGAM,Unclassified
+VIRAR,Unclassified
+VIRUDHUNAGAR,Unclassified
+VISAKHAPATNAM,Unclassified
+VISAKHAPATNAM STEEL PLANT,Unclassified
+VISHNUPRAYAG,Unclassified
+VIZHINJAM,Unclassified
+VIZIANAGARAM,Unclassified
+VRINDAVAN,Unclassified
+VULLI,Unclassified
+VUYYURU,Unclassified
+VYPIN,Unclassified
+WADA,Unclassified
+WADGAONPEER,Unclassified
+WAGHODIA,Unclassified
+WARANGAL,Unclassified
+WARANGAL URBAN DIST.,Unclassified
+WARDHA,Unclassified
+WARJE,Unclassified
+WARORA,Unclassified
+WARTHI,Unclassified
+WARUDE,Unclassified
+WASHIM,Unclassified
+WAYANAD,Unclassified
+WEST BENGAL (8 DIST.S,Unclassified
+WEST CHAMPARAN,Unclassified
+WEST DELHI,Unclassified
+WEST GODAVARI,Unclassified
+WEST MEDINIPUR,Unclassified
+WEST SIANG,Unclassified
+WEST SINGHBHUM,Unclassified
+WHITEFIELD,Unclassified
+WORLI,Unclassified
+YADAGIRIGUTTA MANDAL,Unclassified
+YADGIRI,Unclassified
+YAMUNA NAGAR,Unclassified
+YAVATMAL,Unclassified
+YEDULA,Unclassified
+YELAHANKA,Unclassified
+YEVATMAL,Unclassified
+ZAHEERABAD,Unclassified
+ZIRAKPUR,Unclassified
+ZUARINAGAR,Unclassified
