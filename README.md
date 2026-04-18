@@ -74,3 +74,16 @@ The system standardizes all geographic references into the following strict taxo
 5.  **`Village`**: Rural settlements, hamlets, or gram panchayats.
 6.  **`Unclassified`**: A temporary label used only during Step 1 for parsed strings before they hit the API.
 7.  **`Not Found`**: Indicates the location string could not be identified by the Geopy API and did not match any fallback heuristic patterns. (Ideally rare after Step 3).
+
+
+To install ollama:
+```
+# Download and install Ollama
+curl -fsSL https://ollama.com/install.sh | sh
+
+# Download and start a lightweight model like Llama 3 (from Meta)
+# Note: 'llama3' is about 4.7GB, if you have very old hardware, try 'phi3' instead
+ollama pull llama3
+
+# Leave Ollama running in the background. It creates a local server on port 11434.
+```
